@@ -1,0 +1,8 @@
+venv/
+resources/
+outputs/
+chroma_db/
+
+
+.DS_Store
+.vscode/

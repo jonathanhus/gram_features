@@ -1,0 +1,7 @@
+jupyter
+langchain_community
+pypdf
+openai
+chromadb
+tiktoken
+langchain-openai
