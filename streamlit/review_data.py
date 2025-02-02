@@ -6,6 +6,14 @@ import pandas as pd
 st.set_page_config(layout="wide")
 st.title("GramBank Feature Identification")
 st.markdown("This page allows you to review the contents of the data for the files.")
+st.markdown("""
+- Value: GramBank value
+- Comment: Comment from GramBank coder
+- code: Value determined via LLM
+- commment: Comment determined via LLM
+            
+*Note: A number of columns have been hidden from the table, but they are available in the Selected Row Details section*
+            """)
 st.divider()
 
 # Sidebar for filtering options
@@ -47,6 +55,9 @@ merged_results = pd.merge(df_values, df_exp, on="ID")
 merged_results['Value'] = merged_results['Value'].astype(str)
 merged_results['code'] = merged_results['code'].astype(str)
 
+# Remove unwanted columns
+# merged_results = merged_results.drop(columns=['source'])
+
 st.sidebar.markdown(f"**Number of Features:** {len(merged_results)}")
 
 # Sidebar filters
@@ -72,10 +83,13 @@ st.sidebar.markdown(f"**Number of Results:** {len(filtered_results)}")
 
 # Display table with row selection
 st.subheader("Filtered Data")
-event = st.dataframe(filtered_results, selection_mode='single-row', on_select='rerun')
+columns_to_hide = ['Language_ID', 'Parameter_ID', 'Source', 'Source_comment', 'source']
+visible_columns = [col for col in filtered_results.columns if col not in columns_to_hide]
+event = st.dataframe(filtered_results[visible_columns], selection_mode='single-row', on_select='rerun')
 
 # Display selected row details
 st.subheader("Selected Row Details")
+st.markdown("**Select row in table above to get details**")
 details = event.selection.rows
 
 if details:
@@ -85,4 +99,8 @@ if details:
 # Add bar charts
 st.sidebar.subheader("Value Distribution")
 value_counts = filtered_results['Value'].value_counts()  # Count occurrences of unique 'Value'
+st.sidebar.bar_chart(value_counts)
+
+st.sidebar.subheader("Code Distribution")
+value_counts = filtered_results['code'].value_counts()  # Count occurrences of unique 'Value'
 st.sidebar.bar_chart(value_counts)

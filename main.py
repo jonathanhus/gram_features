@@ -1,5 +1,6 @@
 import json
 import sys
+import os
 
 from tap import Tap
 from typing import Any, Dict, List, Literal, Optional, Union
@@ -155,7 +156,7 @@ expansion_chain = (
 
 
 # Test loading the database
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 embedding_db = Chroma(collection_name=language_name.lower(),
                       embedding_function=embeddings,
