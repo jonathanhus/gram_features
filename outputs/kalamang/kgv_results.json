@@ -1,0 +1,977 @@
+{
+    "GB020-kara1499": {
+        "code": "?",
+        "comment": "The grammar does not contain enough analysis to determine whether there is a definite article or not in Kalamang.",
+        "source": ""
+    },
+    "GB021-kara1499": {
+        "code": "0",
+        "comment": "There is no evidence of indefinite articles in Kalamang, or there are fewer than three examples of indefinite/non-specific articles occurring with indefinite NPs.",
+        "source": ""
+    },
+    "GB022-kara1499": {
+        "code": "?",
+        "comment": "Demonstratives and articles are not well described, leading to uncertainty about the presence of prenominal articles.",
+        "source": ""
+    },
+    "GB023-kara1499": {
+        "code": "?",
+        "comment": "Demonstratives and articles are not well described in Kalamang, so it is unclear whether postnominal articles exist.",
+        "source": ""
+    },
+    "GB024-kara1499": {
+        "code": "IDK",
+        "comment": "The order of numeral and noun in Kalamang is not specified in the information provided and I don't have access to specific data regarding this language's numeral-noun order.",
+        "source": ""
+    },
+    "GB025-kara1499": {
+        "code": "2",
+        "comment": "In Kalamang, the adnominal demonstrative follows the noun in the pragmatically unmarked order.",
+        "source": ""
+    },
+    "GB026-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether Kalamang allows adnominal property words to occur discontinuously. The available data and resources do not provide examples or mention this feature in Kalamang.",
+        "source": ""
+    },
+    "GB027-kara1499": {
+        "code": "IDK",
+        "comment": "The information given does not provide specific details about the use of conjunction and comitative markers in Kalamang. Without additional data or examples from a grammar of Kalamang, it is not possible to determine if the language uses distinct elements for nominal conjunction and comitative phrases or if they are marked in the same way.",
+        "source": ""
+    },
+    "GB028-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information about the pronoun system or person indexing in Kalamang to determine if there is a distinction between inclusive and exclusive.",
+        "source": ""
+    },
+    "GB030-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about the presence or absence of gender distinction in phonologically independent third person pronouns in the Kalamang language.",
+        "source": ""
+    },
+    "GB031-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the presence of dual or unit augmented forms in the pronoun or person index system for the language Kalamang. Further research into the language's grammatical structure would be required to determine the correct coding based on the given criteria.",
+        "source": ""
+    },
+    "GB035-kara1499": {
+        "code": 1,
+        "comment": "Kalamang has a system of adnominal demonstratives that mark three or more different degrees of distance in relation to the speaker or interlocutor.",
+        "source": ""
+    },
+    "GB036-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about whether Kalamang adnominal demonstratives show an elevation distinction.",
+        "source": ""
+    },
+    "GB037-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether Kalamang adnominal demonstratives make a visible-nonvisible distinction. Further research into linguistic resources specific to Kalamang would be required to determine this.",
+        "source": ""
+    },
+    "GB038-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information to determine whether Kalamang has a demonstrative classifier system based on the provided details.",
+        "source": ""
+    },
+    "GB039-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information on Kalamang regarding nonphonological allomorphy of noun number markers to determine if the plural marker is predictable from the singular marker and vice versa.",
+        "source": ""
+    },
+    "GB041-kara1499": {
+        "code": "?",
+        "comment": "There is little description of number marking of nouns in general for the Kalamang language, so it's unclear how many, if any, nouns have strong suppletive forms for number.",
+        "source": ""
+    },
+    "GB042-kara1499": {
+        "code": "IDK",
+        "comment": "The provided information does not specify whether Kalamang has a productive overt morphological singular marker on nouns. Without access to specific grammar resources or documentation on Kalamang, I cannot determine the presence or absence of such a marker.",
+        "source": ""
+    },
+    "GB043-kara1499": {
+        "code": "0",
+        "comment": "The grammar does not describe a productive morphological dual marker on nouns. If dual marking occurs, it is not described as productive or it is marked elsewhere than on the noun.",
+        "source": ""
+    },
+    "GB044-kara1499": {
+        "code": "IDK",
+        "comment": "The information provided does not specify whether Kalamang has a productive morphological plural marker on nouns. Without specific data from a grammar source on Kalamang, it is not possible to determine the presence or absence of such a marker.",
+        "source": ""
+    },
+    "GB046-kara1499": {
+        "code": "?",
+        "comment": "Not mentioned",
+        "source": ""
+    },
+    "GB047-kara1499": {
+        "code": "?",
+        "comment": "Nominalization is not discussed whatsoever in the provided information about Kalamang.",
+        "source": ""
+    },
+    "GB048-kara1499": {
+        "code": "?",
+        "comment": "Nominalization is not discussed whatsoever in the context provided.",
+        "source": ""
+    },
+    "GB049-kara1499": {
+        "code": "?",
+        "comment": "Nominalization is not discussed whatsoever for Kalamang.",
+        "source": ""
+    },
+    "GB051-kara1499": {
+        "code": "0",
+        "comment": "Kalamang does not have a noun class/gender system that includes masculine or feminine categories. Therefore, it is coded 0 according to the procedure provided.",
+        "source": ""
+    },
+    "GB052-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether the language Kalamang has a noun class/gender system where shape is a factor in class assignment. Further research into the linguistic structure of Kalamang would be necessary to answer this question accurately.",
+        "source": ""
+    },
+    "GB053-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether the Kalamang language has a noun class/gender system where animacy is a factor in class assignment.",
+        "source": ""
+    },
+    "GB054-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about the Kalamang language to determine if there is a noun class/gender system where plant status is a factor in class assignment.",
+        "source": ""
+    },
+    "GB057-kara1499": {
+        "code": "IDK",
+        "comment": "The specific information about numeral classifiers in the Kalamang language is not provided in the available data. Further reference to a detailed grammar of the language would be required to determine the presence or absence of numeral classifiers.",
+        "source": ""
+    },
+    "GB058-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about possessive classifiers in the Kalamang language.",
+        "source": ""
+    },
+    "GB059-kara1499": {
+        "code": 0,
+        "comment": "Kalamang does not have multiple possessive constructions that vary based on the semantic class of the possessum.",
+        "source": ""
+    },
+    "GB065-kara1499": {
+        "code": "IDK",
+        "comment": "The pragmatically unmarked order of adnominal possessor and possessed noun in Kalamang is not specified in the provided information.",
+        "source": ""
+    },
+    "GB068-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information about the behavior of property words in Kalamang in predicative position to determine whether they act like verbs and how they are marked.",
+        "source": ""
+    },
+    "GB069-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information on the morphological treatment of adnominal property words in Kalamang to determine their similarity to verbs.",
+        "source": ""
+    },
+    "GB070-kara1499": {
+        "code": "0",
+        "comment": "not mentioned",
+        "source": ""
+    },
+    "GB071-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information about Kalamang's morphological case marking on phonologically independent pronouns.",
+        "source": ""
+    },
+    "GB072-kara1499": {
+        "code": "?",
+        "comment": "There is not enough data or analysis to determine whether oblique case is marked on nouns or noun phrases in Kalamang using phonologically bound means. Available resources do not provide clear information on this aspect.",
+        "source": ""
+    },
+    "GB073-kara1499": {
+        "code": "?",
+        "comment": "There is not enough data or analysis available to determine whether oblique case is marked on phonologically independent personal pronouns in Kalamang. The available resources do not clearly indicate if such markers are phonologically bound, nor are there explicit examples or discussions on oblique arguments in the context of Kalamang pronouns.",
+        "source": ""
+    },
+    "GB074-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether the language Kalamang has prepositions or prepositional proclitics. Further research or a comprehensive grammar description of Kalamang is needed to determine this.",
+        "source": ""
+    },
+    "GB075-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information provided about the presence of postpositions in the Kalamang language. Further research or access to a comprehensive grammar of the language is required to determine this.",
+        "source": ""
+    },
+    "GB079-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information provided to determine whether verbs in Kalamang have prefixes or proclitics other than S, A, or P indexes. Further sources or data would be needed for a conclusive analysis.",
+        "source": ""
+    },
+    "GB080-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether Kalamang verbs have suffixes or enclitics that mark something other than A, S, or P indexes.",
+        "source": ""
+    },
+    "GB081-kara1499": {
+        "code": "?",
+        "comment": "I am uncertain whether Kalamang has productive infixation in verbs based on the provided summary. More specific information about verbal morphology in Kalamang would be needed to determine if there are grammatically meaningful infixes or if the language only exhibits infixing reduplication or fossilized forms. Without such information, it is difficult to confidently identify the presence of productive infixation.",
+        "source": ""
+    },
+    "GB082-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available regarding the overt morphological marking of present tense on verbs in Kalamang.",
+        "source": ""
+    },
+    "GB083-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information about the morphological marking of past tense in the Kalamang language.",
+        "source": ""
+    },
+    "GB084-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information provided to determine whether Kalamang has overt morphological marking on the verb dedicated to future tense. Further research into specific grammatical descriptions of Kalamang is needed to provide an accurate answer.",
+        "source": ""
+    },
+    "GB086-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information to determine whether Kalamang has a morphological distinction between perfective and imperfective aspect on verbs.",
+        "source": ""
+    },
+    "GB089-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether the S argument in Kalamang can be indexed by a suffix/enclitic on the verb in a simple independent clause.",
+        "source": ""
+    },
+    "GB090-kara1499": {
+        "code": "IDK",
+        "comment": "The information regarding the indexing of the S argument in Kalamang, specifically whether it is done by a prefix or proclitic, is not available in the provided data. Further consultation of Kalamang's grammatical resources is necessary to answer this question accurately.",
+        "source": ""
+    },
+    "GB091-kara1499": {
+        "code": "IDK",
+        "comment": "The available information does not provide specific details on whether the A argument in Kalamang is indexed by a phonologically bound suffix or enclitic on the verb in simple independent clauses. Further reference to the specific grammar of Kalamang on this topic is necessary to determine the answer.",
+        "source": ""
+    },
+    "GB092-kara1499": {
+        "code": "IDK",
+        "comment": "The information regarding whether the Kalamang language indexes the A argument with a prefix or proclitic on the verb in a simple independent clause is not readily available in the provided data. Further reference to detailed grammatical descriptions of the Kalamang language is required to provide an accurate response.",
+        "source": ""
+    },
+    "GB093-kara1499": {
+        "code": "IDK",
+        "comment": "The specific information about Kalamang's verbal morphology and whether the P argument can be indexed by a suffix or enclitic on the verb in a simple independent clause is not available in the provided data. Further consultation of detailed grammatical resources on Kalamang would be necessary to provide an accurate response.",
+        "source": ""
+    },
+    "GB094-kara1499": {
+        "code": "IDK",
+        "comment": "The information provided does not specify whether Kalamang has a phonologically bound P argument index that precedes the verb as a prefix or a proclitic. Without access to specific details from the grammar of Kalamang, I cannot determine the answer.",
+        "source": ""
+    },
+    "GB095-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information to determine if Kalamang has variations in marking strategies of core participants based on TAM distinctions. Further research or data specific to Kalamang's grammar regarding flagging and indexing in relation to TAM is needed to answer this question accurately.",
+        "source": ""
+    },
+    "GB096-kara1499": {
+        "code": "IDK",
+        "comment": "The specific details about Kalamang's marking strategies of core participants based on verb classes are not available in my current knowledge base.",
+        "source": ""
+    },
+    "GB098-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about Kalamang regarding variations in marking strategies of core participants based on person distinctions.",
+        "source": ""
+    },
+    "GB099-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available on whether Kalamang has at least three verbs that display suppletion conditioned by the person of S, A, or P arguments.",
+        "source": ""
+    },
+    "GB103-kara1499": {
+        "code": "?",
+        "comment": "There is insufficient information available about the Kalamang language's verbal morphology or the presence of benefactive markers or indices on verbs. Without specific details on this aspect, it is not possible to determine if the language has such markers.",
+        "source": ""
+    },
+    "GB104-kara1499": {
+        "code": "?",
+        "comment": "There is not enough information available to determine if Kalamang has an instrumental marker or index on verbs. Further details on verbal morphology, indexing, and argument structure specific to instruments are needed.",
+        "source": ""
+    },
+    "GB105-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the argument marking in ditransitive constructions for the language Kalamang to determine if the recipient can be marked like the transitive patient.",
+        "source": ""
+    },
+    "GB107-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available to determine how standard negation is marked in Kalamang based on the provided procedure. Further descriptive literature would be necessary to identify whether negation is marked by an affix, clitic, or modification of the verb.",
+        "source": ""
+    },
+    "GB108-kara1499": {
+        "code": 0,
+        "comment": "There is no specific information indicating that Kalamang verbs have bound markers for direction or location.",
+        "source": ""
+    },
+    "GB109-kara1499": {
+        "code": "?",
+        "comment": "There is little description available about participant marking on verbs in Kalamang, specifically regarding strong suppletion for participant number. More data would be required to make a definitive assessment.",
+        "source": ""
+    },
+    "GB110-kara1499": {
+        "code": "?",
+        "comment": "There is little description of tense/aspect marking on verbs in Kalamang, making it difficult to determine the presence of strong suppletion.",
+        "source": ""
+    },
+    "GB111-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information about Kalamang's verb inflection system to determine if there are conjugation classes or variations in finiteness marking depending on the verb used. Further linguistic analysis of Kalamang's verb morphology is required to provide an accurate answer.",
+        "source": ""
+    },
+    "GB113-kara1499": {
+        "code": "?",
+        "comment": "There is not enough data or analysis to establish the presence or absence of a bound transitivizing morpheme in Kalamang.",
+        "source": ""
+    },
+    "GB114-kara1499": {
+        "code": "?",
+        "comment": "Not enough data or analysis in the available sources to determine whether there is a bound reflexive marker on verbs or whether it is productive.",
+        "source": ""
+    },
+    "GB115-kara1499": {
+        "code": "?",
+        "comment": "There is not enough data or analysis in the grammar provided to determine whether there is a phonologically bound and productive reciprocal marker on verbs in Kalamang.",
+        "source": ""
+    },
+    "GB116-kara1499": {
+        "code": "?",
+        "comment": "The information about whether Kalamang has a system of verbal classification indicating the shape, size, or consistency of absolutive arguments is unclear. There is no explicit data available that differentiates between verbal classifiers and noun class agreement for Kalamang.",
+        "source": ""
+    },
+    "GB117-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the use of copulas in predicate nominals for the Kalamang language.",
+        "source": ""
+    },
+    "GB118-kara1499": {
+        "code": "?",
+        "comment": "There is no specific information available on serial verb constructions in Kalamang. Without clear examples or descriptions, it's uncertain whether they exist or were simply overlooked by sources.",
+        "source": ""
+    },
+    "GB119-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on mood marking in Kalamang to determine if inflecting words such as auxiliary verbs are used to express mood. Further research into a grammatical description of the language would be necessary to provide a definitive answer.",
+        "source": ""
+    },
+    "GB120-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have access to detailed grammatical descriptions of Kalamang to determine if aspect is marked by an inflecting word such as an auxiliary verb.",
+        "source": ""
+    },
+    "GB121-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have access to specific grammatical descriptions of the Kalamang language to determine if tense is marked by an inflecting word such as an auxiliary verb.",
+        "source": ""
+    },
+    "GB122-kara1499": {
+        "code": "?",
+        "comment": "The information provided does not specify whether verb compounding is a regular and productive process in Kalamang. Without further details on the conventionalization and phonological integration of verb stems, it is unclear how productive this process is in the language.",
+        "source": ""
+    },
+    "GB123-kara1499": {
+        "code": 0,
+        "comment": "There is no explicit mention of light-verb constructions in Kalamang involving a verb and a non-verbal element to form new verbal predicates, nor are there examples indicating such constructions. Therefore, the code is 0 as per the provided procedure.",
+        "source": ""
+    },
+    "GB124-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about noun incorporation as an intransitivizing process in the Kalamang language.",
+        "source": ""
+    },
+    "GB126-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the existential constructions in the Kalamang language to determine if there is an existential verb distinct from the equative or attributive elements.",
+        "source": ""
+    },
+    "GB127-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the use of posture verbs in locative predication in the Kalamang language.",
+        "source": ""
+    },
+    "GB129-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information provided about the number of verb roots in Kalamang. Without such information, it is not possible to determine if the language has a notably small number of verb roots.",
+        "source": ""
+    },
+    "GB130-kara1499": {
+        "code": "?",
+        "comment": "The pragmatically unmarked order of S and V in intransitive clauses for Kalamang is unclear based on the available data. Further examples or descriptions are needed to determine whether SV or VS order is consistently used, or if both orders occur in pragmatically unmarked constructions.",
+        "source": ""
+    },
+    "GB131-kara1499": {
+        "code": "?",
+        "comment": "The pragmatically unmarked constituent order for transitive clauses in Kalamang is not mentioned in the provided information and cannot be determined without additional data or examples.",
+        "source": ""
+    },
+    "GB132-kara1499": {
+        "code": "?",
+        "comment": "The pragmatically unmarked constituent order for transitive clauses in Kalamang is not mentioned and cannot be determined by examining examples provided.",
+        "source": ""
+    },
+    "GB133-kara1499": {
+        "code": "?",
+        "comment": "The pragmatically unmarked constituent order for transitive clauses in Kalamang is not mentioned and cannot be determined from the provided information.",
+        "source": ""
+    },
+    "GB134-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine the order of constituents in main and subordinate clauses for Kalamang. Therefore, I cannot ascertain whether the same basic word orders are possible in both clause types.",
+        "source": ""
+    },
+    "GB135-kara1499": {
+        "code": "?",
+        "comment": "There is insufficient information available on the placement of clausal objects in Kalamang to determine if they occur in the same position as nominal objects. Further examples or descriptive work are needed to make this determination.",
+        "source": ""
+    },
+    "GB136-kara1499": {
+        "code": "?",
+        "comment": "There is no clear information about whether the order of core arguments (S, A, and P) in Kalamang is fixed or free. Without explicit examples or descriptions regarding the permutation of these elements and their effects on propositional content or requirements for further elements, it is unclear whether the order is fixed or not.",
+        "source": ""
+    },
+    "GB137-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have access to the specific descriptive literature required to determine if Kalamang marks standard negation clause-finally.",
+        "source": ""
+    },
+    "GB138-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available regarding the specifics of negation in Kalamang to determine if standard negation can be marked clause-initially.",
+        "source": ""
+    },
+    "GB139-kara1499": {
+        "code": "?",
+        "comment": "There is no available source that specifically describes negative imperatives (or prohibitives) in Kalamang, so the feature cannot be determined.",
+        "source": ""
+    },
+    "GB140-kara1499": {
+        "code": "?",
+        "comment": "The information on locational, existential, and nominal predication in relation to verbal negation in Kalamang is not provided, so it's unclear if they use the same negator.",
+        "source": ""
+    },
+    "GB146-kara1499": {
+        "code": "?",
+        "comment": "There is insufficient data available to determine whether Kalamang has a morphosyntactic distinction between predicates expressing controlled versus uncontrolled events or states. No explicit information or examples were found in the provided sections.",
+        "source": ""
+    },
+    "GB147-kara1499": {
+        "code": "?",
+        "comment": "There is no information provided about morphological passive markers in Kalamang. The treatment of valency changing operations in this language is either very limited or not available.",
+        "source": ""
+    },
+    "GB148-kara1499": {
+        "code": "?",
+        "comment": "There is no specific information available on valency changing operations or antipassive constructions in Kalamang, or the treatment is very limited.",
+        "source": ""
+    },
+    "GB149-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine whether the Kalamang language has a morphologically marked inverse on verbs as described in the procedure.",
+        "source": ""
+    },
+    "GB150-kara1499": {
+        "code": "?",
+        "comment": "I am uncertain whether Kalamang has a construction that meets the criteria for clause-chaining or if examples involving series of verbs exemplify another construction such as serial verbs or verb compounding. Further data or analysis would be needed to make a determination.",
+        "source": ""
+    },
+    "GB151-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information regarding switch reference markers in the Kalamang language.",
+        "source": ""
+    },
+    "GB152-kara1499": {
+        "code": 0,
+        "comment": "In Kalamang, there is no overt marker on the verb that specifically indicates temporal simultaneity or sequentiality between clauses. Temporal relationships are implied through other means rather than a dedicated verbal marker.",
+        "source": ""
+    },
+    "GB155-kara1499": {
+        "code": "?",
+        "comment": "There is no specific information available about the formation of causatives in the language Kalamang, or the treatment of valency changing operations is very limited.",
+        "source": ""
+    },
+    "GB156-kara1499": {
+        "code": "?",
+        "comment": "There is no available information on causative constructions or valency changing operations in Kalamang, or the treatment of such constructions is very limited.",
+        "source": ""
+    },
+    "GB158-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information to determine if Kalamang has productive verbal reduplication.",
+        "source": ""
+    },
+    "GB159-kara1499": {
+        "code": "?",
+        "comment": "There is no specific information provided about the productive reduplication of nouns in Kalamang, and the analysis remains inconclusive.",
+        "source": ""
+    },
+    "GB160-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine whether elements apart from verbs or nouns are reduplicated in Kalamang. Further research or sources are needed to provide a definitive answer.",
+        "source": ""
+    },
+    "GB165-kara1499": {
+        "code": "0",
+        "comment": "The grammar does not mention a productive morphological trial marker on nouns in Kalamang. If trial number is marked, it is not done so productively or it occurs elsewhere than on the noun.",
+        "source": ""
+    },
+    "GB166-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on Kalamang's productive morphological paucal marker on nouns based on the procedure provided.",
+        "source": ""
+    },
+    "GB167-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the use of logophoric pronouns in the Kalamang language.",
+        "source": ""
+    },
+    "GB170-kara1499": {
+        "code": "?",
+        "comment": "The information provided does not state whether Kalamang has a gender/noun class system, and without additional data or author discussion, it's not possible to determine if adnominal property words agree with nouns in noun class/gender.",
+        "source": ""
+    },
+    "GB171-kara1499": {
+        "code": 0,
+        "comment": "There is no evidence or mention of a noun class or gender system in Kalamang that would allow adnominal demonstratives to agree with the noun in noun class or gender.",
+        "source": ""
+    },
+    "GB172-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about the Kalamang language to determine if articles agree with nouns in noun class/gender.",
+        "source": ""
+    },
+    "GB177-kara1499": {
+        "code": 0,
+        "comment": "In Kalamang, the verb does not appear to carry a marker of animacy of argument that is unrelated to noun class or gender as revealed by agreement in the noun phrase. The indexing system on the verb does not show differentiation based on animacy beyond person and/or number distinctions that are identical for animate and inanimate referents.",
+        "source": ""
+    },
+    "GB184-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about whether adnominal property words in Kalamang can agree with the noun in number.",
+        "source": ""
+    },
+    "GB185-kara1499": {
+        "code": 0,
+        "comment": "There is no evidence for number agreement on adnominal demonstratives in Kalamang.",
+        "source": ""
+    },
+    "GB186-kara1499": {
+        "code": 0,
+        "comment": "In Kalamang, articles do not agree with the noun in number. There is no variation in articles based on the number of the head noun.",
+        "source": ""
+    },
+    "GB187-kara1499": {
+        "code": "?",
+        "comment": "The source does not provide comprehensive information on whether there is a phonologically bound diminutive marker in Kalamang, not associated with nominal classification.",
+        "source": ""
+    },
+    "GB188-kara1499": {
+        "code": "?",
+        "comment": "There is insufficient information available on the presence or absence of productive augmentative marking in Kalamang. The data does not specify if such morphemes exist or are used in the language.",
+        "source": ""
+    },
+    "GB192-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about the Kalamang language's noun class/gender system and whether phonological properties influence class assignment. Further research or specific linguistic studies on Kalamang would be needed to determine this.",
+        "source": ""
+    },
+    "GB193-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available on the order of adnominal property words and nouns in Kalamang. Further research or data would be needed to determine the typical placement of these words in relation to nouns in this language.",
+        "source": ""
+    },
+    "GB196-kara1499": {
+        "code": "0",
+        "comment": "Kalamang does not have a masculine/feminine distinction in its second person independent pronouns.",
+        "source": ""
+    },
+    "GB197-kara1499": {
+        "code": "0",
+        "comment": "Kalamang does not have a masculine/feminine distinction in its first person independent pronouns.",
+        "source": ""
+    },
+    "GB198-kara1499": {
+        "code": "0",
+        "comment": "The author states that there is no gender/noun class system in Kalamang, or it is apparent from the data that such a system does not exist.",
+        "source": ""
+    },
+    "GB203-kara1499": {
+        "code": "?",
+        "comment": "There is insufficient information available to determine the order of the adnominal collective universal quantifier and the noun in Kalamang.",
+        "source": ""
+    },
+    "GB204-kara1499": {
+        "code": "?",
+        "comment": "There is insufficient information to determine if Kalamang uses different forms or syntactic positions for collective and distributive universal quantifiers.",
+        "source": ""
+    },
+    "GB250-kara1499": {
+        "code": "?",
+        "comment": "There is no specific information available about whether Kalamang uses a finite transitive 'habeo' verb construction to express predicative possession. Further investigation into the language's grammatical structure or additional resources would be necessary to determine this.",
+        "source": ""
+    },
+    "GB252-kara1499": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Kalamang. The procedure for finding relevant sections or keywords did not yield any results, so the code is '?'.",
+        "source": ""
+    },
+    "GB253-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available regarding the expression of predicative possession in Kalamang with an S-like possessum and a dative-coded possessor. Further research or resources would be needed to provide an accurate answer.",
+        "source": ""
+    },
+    "GB254-kara1499": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in the language Kalamang. Without details on whether there is a clause type where a possessum is coded as a subject and the possessor is coded as a modifier of the subject, it's not possible to determine if this type of construction exists.",
+        "source": ""
+    },
+    "GB256-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have access to specific resources or databases to verify the details about predicative possession in Kalamang. Therefore, I cannot determine if Kalamang uses a comitative/conjunctional construction for predicative possession.",
+        "source": ""
+    },
+    "GB257-kara1499": {
+        "code": "?",
+        "comment": "There is limited data available on whether Kalamang uses intonation alone to mark polar interrogation. Further research is needed to determine if intonation can be the sole marker for questions in this language.",
+        "source": ""
+    },
+    "GB260-kara1499": {
+        "code": "?",
+        "comment": "The available data does not provide clear information on whether Kalamang uses word order alone to mark polar questions.",
+        "source": ""
+    },
+    "GB262-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine if Kalamang has a clause-initial polar interrogative particle based on the given procedure.",
+        "source": ""
+    },
+    "GB263-kara1499": {
+        "code": "?",
+        "comment": "The information regarding clause-final polar interrogative particles in Kalamang is not well described or there are not enough examples available to determine the presence of such a particle.",
+        "source": ""
+    },
+    "GB264-kara1499": {
+        "code": "?",
+        "comment": "The information on polar interrogation in Kalamang is not sufficiently detailed to determine the presence of a mid-clause polar interrogative particle.",
+        "source": ""
+    },
+    "GB265-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information about the comparative constructions in the Kalamang language to determine if they use a form meaning 'surpass/exceed'.",
+        "source": ""
+    },
+    "GB266-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about the specific use of locational or benefactive markers in comparative constructions in the Kalamang language.",
+        "source": ""
+    },
+    "GB270-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether Kalamang has a dedicated comparative construction involving two conjoined clauses.",
+        "source": ""
+    },
+    "GB273-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information to determine if Kalamang has a comparative construction with a dedicated marker that does not have a surpass/exceed or locational meaning elsewhere.",
+        "source": ""
+    },
+    "GB275-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether Kalamang has a bound comparative degree marker on the property word in a comparative construction.",
+        "source": ""
+    },
+    "GB276-kara1499": {
+        "code": "IDK",
+        "comment": "I don't have specific information about the presence of a non-bound comparative degree marker in Kalamang.",
+        "source": ""
+    },
+    "GB285-kara1499": {
+        "code": "?",
+        "comment": "The available information does not provide details about the use of question particles or verbal morphology for forming polar questions in Kalamang.",
+        "source": ""
+    },
+    "GB286-kara1499": {
+        "code": "?",
+        "comment": "The question asks if polar interrogation in Kalamang can be indicated solely by overt verbal morphology. However, without specific information on how polar questions are formed in Kalamang, it is not possible to determine if this is the case. The procedure indicates using code '?' if the grammar does not treat polar interrogation at all, which seems applicable here due to lack of information.",
+        "source": ""
+    },
+    "GB291-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about Kalamang using tone to mark polar interrogation.",
+        "source": ""
+    },
+    "GB296-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the ideophones in the Kalamang language and their phonological or morphosyntactic characteristics.",
+        "source": ""
+    },
+    "GB297-kara1499": {
+        "code": "?",
+        "comment": "There is not enough information available on how questions are formed in Kalamang to determine if a V-not-V construction is used for polar interrogation.",
+        "source": ""
+    },
+    "GB298-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have access to specific descriptive literature on the Kalamang language to determine if standard negation is marked by an inflecting word. Therefore, I cannot provide a definitive code for this feature.",
+        "source": ""
+    },
+    "GB299-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether Kalamang uses a non-inflecting word to mark standard negation. Further examination of the available descriptive literature on Kalamang's negation is required to determine this.",
+        "source": ""
+    },
+    "GB300-kara1499": {
+        "code": "?",
+        "comment": "The verb paradigm for 'give' in Kalamang is not described in the provided information.",
+        "source": ""
+    },
+    "GB301-kara1499": {
+        "code": "?",
+        "comment": "The available information does not provide enough data to determine if Kalamang has inclusory constructions. Further resources or examples are needed to make an assessment.",
+        "source": ""
+    },
+    "GB302-kara1499": {
+        "code": "?",
+        "comment": "There is no information available on phonologically free passive markers in Kalamang, and treatment of valency changing operations in the language is very limited.",
+        "source": ""
+    },
+    "GB303-kara1499": {
+        "code": "?",
+        "comment": "There is no specific information available about a phonologically free antipassive marker in Kalamang. The sources do not provide a clear treatment of valency changing operations related to antipassive constructions.",
+        "source": ""
+    },
+    "GB304-kara1499": {
+        "code": "?",
+        "comment": "There is insufficient data available on the Kalamang language to determine whether the agent can be overtly expressed in a passive clause. No specific examples or descriptions of passive constructions in Kalamang are available to make a definitive conclusion.",
+        "source": ""
+    },
+    "GB305-kara1499": {
+        "code": "IDK",
+        "comment": "IDK",
+        "source": ""
+    },
+    "GB306-kara1499": {
+        "code": "?",
+        "comment": "IDK",
+        "source": ""
+    },
+    "GB309-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine the specifics of tense marking for remoteness in the Kalamang language.",
+        "source": ""
+    },
+    "GB312-kara1499": {
+        "code": "?",
+        "comment": "The grammatical description does not provide specific information about overt morphological marking on the verb for mood in Kalamang.",
+        "source": ""
+    },
+    "GB313-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient data available to determine the presence of special adnominal possessive pronouns in Kalamang.",
+        "source": ""
+    },
+    "GB314-kara1499": {
+        "code": "?",
+        "comment": "The available information does not make it clear whether augmentatives in Kalamang can be expressed with a shift in gender/noun class.",
+        "source": ""
+    },
+    "GB315-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information to determine whether Kalamang uses noun class or gender shifts to express diminutive meanings productively.",
+        "source": ""
+    },
+    "GB316-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information about the Kalamang language's use of singular number marking in noun phrases.",
+        "source": ""
+    },
+    "GB317-kara1499": {
+        "code": "IDK",
+        "comment": "Without access to specific grammatical descriptions or examples of the Kalamang language, I cannot determine whether dual number is regularly marked in the noun phrase by a phonologically free element. Further information from a comprehensive grammar of Kalamang would be necessary to provide an accurate response.",
+        "source": ""
+    },
+    "GB318-kara1499": {
+        "code": "IDK",
+        "comment": "The information provided about the Kalamang language does not specify whether there is a phonologically free element marking plural number in the noun phrase. Without access to specific grammatical descriptions or examples from the language, it is not possible to determine the presence of such a marker.",
+        "source": ""
+    },
+    "GB319-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information about the marking of trial number in Kalamang noun phrases. Further details from a comprehensive grammar description of Kalamang would be required to determine the presence of a free-standing trial number marker.",
+        "source": ""
+    },
+    "GB320-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the marking of paucal number in the noun phrase for the Kalamang language. Without access to a detailed grammar or examples, I cannot determine whether a free-standing marker for paucal number exists.",
+        "source": ""
+    },
+    "GB321-kara1499": {
+        "code": "IDK",
+        "comment": "There is no available information on the noun class/gender system of Kalamang regarding unpredictable noun class assignments.",
+        "source": ""
+    },
+    "GB322-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the grammatical marking of direct evidentiality in Kalamang.",
+        "source": ""
+    },
+    "GB323-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine whether Kalamang has grammatical marking for indirect evidentiality.",
+        "source": ""
+    },
+    "GB324-kara1499": {
+        "code": "?",
+        "comment": "The source does not provide detailed information about content interrogative constructions or mention interrogative verbs in Kalamang. Hence, there is insufficient evidence to determine the presence of interrogative verbs.",
+        "source": ""
+    },
+    "GB325-kara1499": {
+        "code": "?",
+        "comment": "There is insufficient information provided about Kalamang to determine whether there is a count/mass distinction in interrogative quantifiers. Specific examples or descriptions of interrogative quantifiers used with count and mass nouns are not available.",
+        "source": ""
+    },
+    "GB326-kara1499": {
+        "code": "?",
+        "comment": "There is insufficient information available about Kalamang to determine whether nominal wh-constituents frequently occur in situ. Further research or data on Kalamang's interrogative constructions and typical word order in declarative clauses is needed.",
+        "source": ""
+    },
+    "GB327-kara1499": {
+        "code": "?",
+        "comment": "The available information does not provide a detailed analysis of relative clauses in Kalamang, specifically regarding their position as postnominal. The source may not have thoroughly addressed the presence or absence of postnominal relative clauses.",
+        "source": ""
+    },
+    "GB328-kara1499": {
+        "code": "?",
+        "comment": "The source does not provide enough detail on whether relative clauses in Kalamang can be prenominal. Without specific examples or a clear description of prenominal relative clauses, it is inconclusive.",
+        "source": ""
+    },
+    "GB329-kara1499": {
+        "code": "?",
+        "comment": "The available information does not provide detailed treatment of internally-headed relative clauses in Kalamang. Without specific examples or comprehensive descriptions, it's unclear if such structures exist in the language.",
+        "source": ""
+    },
+    "GB330-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about correlative relative clauses in Kalamang.",
+        "source": ""
+    },
+    "GB331-kara1499": {
+        "code": "?",
+        "comment": "The information provided does not specify whether Kalamang has non-adjacent relative clauses. If there is no detailed treatment of relative clauses in the available sources, it is possible that they may have been missed.",
+        "source": ""
+    },
+    "GB333-kara1499": {
+        "code": "?",
+        "comment": "There is not enough data to verify whether Kalamang has a decimal numeral system, specifically for multiples of 10 starting from 30.",
+        "source": ""
+    },
+    "GB334-kara1499": {
+        "code": "?",
+        "comment": "The source does not contain enough data to verify whether or not there is a quinary numeral system in Kalamang.",
+        "source": ""
+    },
+    "GB335-kara1499": {
+        "code": "?",
+        "comment": "The source does not provide enough information about numerals beyond 29 to verify whether there is a vigesimal numeral system in Kalamang.",
+        "source": ""
+    },
+    "GB336-kara1499": {
+        "code": "?",
+        "comment": "The source does not contain enough data to verify whether or not there is a body-part tallying system in Kalamang.",
+        "source": ""
+    },
+    "GB400-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on Kalamang's verbal morphology and whether person categories are neutralized in certain TAM, voice, or negation contexts.",
+        "source": ""
+    },
+    "GB401-kara1499": {
+        "code": "?",
+        "comment": "There is not enough information provided in the question to determine if there is a class of patient-labile verbs in Kalamang. The procedure requires looking at specific sections in a description or examples, which are not available here.",
+        "source": ""
+    },
+    "GB402-kara1499": {
+        "code": "?",
+        "comment": "The verb paradigm for 'see' in Kalamang is not described in the available data.",
+        "source": ""
+    },
+    "GB403-kara1499": {
+        "code": "?",
+        "comment": "The verb paradigm for 'come' in Kalamang is not described in the available data.",
+        "source": ""
+    },
+    "GB408-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the accusative alignment of flagging in the Kalamang language.",
+        "source": ""
+    },
+    "GB409-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine the ergative alignment of flagging in the Kalamang language based on the given procedure.",
+        "source": ""
+    },
+    "GB410-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the flagging of S, A, and P arguments in Kalamang. To determine if there is neutral alignment of flagging in this language, one would need to consult a detailed grammar resource or linguistic study focused on Kalamang.",
+        "source": ""
+    },
+    "GB415-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available regarding politeness distinctions in second person pronoun forms in the Kalamang language.",
+        "source": ""
+    },
+    "GB421-kara1499": {
+        "code": "IDK",
+        "comment": "The specific information about the position of complementizers in Kalamang, particularly in relation to complements of verbs of thinking and knowing, is not provided in the current data set. Further investigation into resources that discuss complex syntax in Kalamang would be necessary to determine the answer.",
+        "source": ""
+    },
+    "GB422-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the positioning of complementizers in Kalamang for complements of verbs of thinking and/or knowing.",
+        "source": ""
+    },
+    "GB430-kara1499": {
+        "code": 0,
+        "comment": "There is no information indicating that Kalamang uses a prefix or proclitic on the possessor noun/pronoun to mark adnominal possession.",
+        "source": ""
+    },
+    "GB431-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information on Kalamang to determine if adnominal possession is marked by a prefix or proclitic on the possessed noun.",
+        "source": ""
+    },
+    "GB432-kara1499": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the adnominal possession marked by a suffix in the Kalamang language.",
+        "source": ""
+    },
+    "GB433-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine if Kalamang marks adnominal possession with a suffix or enclitic on the possessed noun.",
+        "source": ""
+    },
+    "GB519-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on mood marking in Kalamang to determine if there are non-inflecting phonologically free mood markers.",
+        "source": ""
+    },
+    "GB520-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have access to specific grammatical descriptions or resources about the Kalamang language to determine if aspect is marked by a non-inflecting word ('auxiliary particle').",
+        "source": ""
+    },
+    "GB521-kara1499": {
+        "code": "IDK",
+        "comment": "I do not have specific information on tense marking in Kalamang and whether it uses non-inflecting phonologically free markers for tense. Further research in a detailed grammatical description of Kalamang would be necessary to provide an accurate answer.",
+        "source": ""
+    },
+    "GB522-kara1499": {
+        "code": "IDK",
+        "comment": "There is insufficient information available on whether Kalamang allows the omission of S or A arguments in pragmatically unmarked main clauses. Further research or data on the language would be required to determine if it exhibits pro-drop characteristics.",
+        "source": ""
+    }
+}

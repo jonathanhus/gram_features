@@ -1,0 +1,977 @@
+{
+    "GB020-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau does not have a definite or specific article that marks definiteness or specificity without also conveying a spatial deictic meaning.",
+        "source": ""
+    },
+    "GB021-mina1268": {
+        "code": "0",
+        "comment": "Minangkabau does not have indefinite articles. There are no examples of indefinite/non-specific nominals occurring with an indefinite/non-specific article in Minangkabau. The language does not use articles in the same way as languages like English.",
+        "source": ""
+    },
+    "GB022-mina1268": {
+        "code": "?",
+        "comment": "Demonstratives and articles in Minangkabau are not well described, making it unclear if there are prenominal articles. Further research is needed to determine if they meet the definitions of GB020 or GB021.",
+        "source": ""
+    },
+    "GB023-mina1268": {
+        "code": "?",
+        "comment": "Demonstratives and articles are not well described in the Minangkabau language, making it unclear if postnominal articles exist.",
+        "source": ""
+    },
+    "GB024-mina1268": {
+        "code": 1,
+        "comment": "In Minangkabau, the numeral typically precedes the noun, which aligns with the Num-N order.",
+        "source": ""
+    },
+    "GB025-mina1268": {
+        "code": 2,
+        "comment": "In Minangkabau, the pragmatically unmarked order is for the adnominal demonstrative to follow the noun.",
+        "source": ""
+    },
+    "GB026-mina1268": {
+        "code": "0",
+        "comment": "There is no evidence in the available resources that Minangkabau allows adnominal property words to occur discontinuously. No example sentences or grammatical descriptions were found to suggest this phenomenon.",
+        "source": ""
+    },
+    "GB027-mina1268": {
+        "code": 1,
+        "comment": "In Minangkabau, nominal conjunction and comitative phrases are expressed with different elements. The nominal conjunction typically uses 'jo' (equivalent to 'and'), while the comitative is marked by 'dengan' (equivalent to 'with'). This indicates that both functions are overtly marked and distinct from each other.",
+        "source": ""
+    },
+    "GB028-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there is no clear distinction between inclusive and exclusive forms in the pronominal system or person indexing. The grammar does not describe any pronouns or indices that explicitly mark inclusivity or exclusivity.",
+        "source": ""
+    },
+    "GB030-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there are no grammaticalized independent third person pronouns or demonstratives that encode distinctions in gender or noun class. The language does not have a system of gender distinctions such as masculine and feminine or animacy in its third person pronouns or demonstratives.",
+        "source": ""
+    },
+    "GB031-mina1268": {
+        "code": 0,
+        "comment": "The Minangkabau language does not have a grammaticalized dual form across all person categories in its pronoun or person indexing paradigms. Dual number is expressed using separate markers, not inherent to the pronoun or indexing forms themselves.",
+        "source": ""
+    },
+    "GB035-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau typically uses two distance contrasts in adnominal demonstratives: 'diak' for something close to the speaker and 'itu' for something farther away. There is no third distance distinction commonly used.",
+        "source": ""
+    },
+    "GB036-mina1268": {
+        "code": "IDK",
+        "comment": "There is no specific information available regarding whether Minangkabau adnominal demonstratives show an elevation distinction.",
+        "source": ""
+    },
+    "GB037-mina1268": {
+        "code": "IDK",
+        "comment": "There is no specific information available regarding whether Minangkabau adnominal demonstratives show a visible-nonvisible distinction.",
+        "source": ""
+    },
+    "GB038-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, there is no evidence of a classifier system that appears with demonstratives to classify nouns. Demonstratives in Minangkabau typically do not require classifiers that depend on the category of the noun, and there is no mention of such a system separate from gender/noun classes.",
+        "source": ""
+    },
+    "GB039-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, the number marking system on nouns is generally consistent and predictable; hence, you can predict the plural marker from the singular form.",
+        "source": ""
+    },
+    "GB041-mina1268": {
+        "code": "?",
+        "comment": "There is limited information available on strong suppletion for number in Minangkabau nouns. More detailed linguistic data would be needed to determine if such examples exist.",
+        "source": ""
+    },
+    "GB042-mina1268": {
+        "code": 0,
+        "comment": "The Minangkabau language does not have a productive overt morphological singular marker on nouns. Typically, Minangkabau, like many other Malay languages, does not use morphological markers to indicate singular number; instead, nouns are generally unmarked for number, relying on context or additional words for clarification if necessary. Therefore, according to the given procedure, this would result in a code of 0.",
+        "source": ""
+    },
+    "GB043-mina1268": {
+        "code": 0,
+        "comment": "The Minangkabau language does not have a productive morphological dual marker on nouns. Number marking, including dual, is not a prominent feature in Minangkabau nominal morphology, and any marking of dual number would likely not be productive or regular across an open set of nouns, if it exists at all.",
+        "source": ""
+    },
+    "GB044-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, plurals are typically marked through reduplication rather than a bound morphological marker on nouns. This means that the language does not have a productive morphological plural marker that fits the criteria set out in the procedure.",
+        "source": ""
+    },
+    "GB046-mina1268": {
+        "code": "?",
+        "comment": "Not mentioned",
+        "source": ""
+    },
+    "GB047-mina1268": {
+        "code": "?",
+        "comment": "The question of whether Minangkabau has a productive morphological pattern for deriving an action/state noun from a verb is not discussed in the provided information.",
+        "source": ""
+    },
+    "GB048-mina1268": {
+        "code": "?",
+        "comment": "Nominalization is not discussed whatsoever in the provided information about Minangkabau.",
+        "source": ""
+    },
+    "GB049-mina1268": {
+        "code": "IDK",
+        "comment": "The available information does not specify whether Minangkabau has a productive morphological pattern for deriving object nouns from verbs, and I do not have access to data beyond October 2023 to provide an answer.",
+        "source": ""
+    },
+    "GB051-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau does not have a noun class/gender system that includes masculine and/or feminine categories. The language does not categorize nouns based on gender distinctions such as masculine or feminine for agreement or indexing purposes.",
+        "source": ""
+    },
+    "GB052-mina1268": {
+        "code": "0",
+        "comment": "Minangkabau does not have a noun class/gender system where shape is a factor in class assignment. The language does not exhibit a system of nominal classification that involves agreement or indexing based on shape.",
+        "source": ""
+    },
+    "GB053-mina1268": {
+        "code": "0",
+        "comment": "The Minangkabau language does not have a noun class/gender system where animacy is a factor in class assignment. Nouns are not categorized into classes based on animacy or other factors typically associated with gender systems.",
+        "source": ""
+    },
+    "GB054-mina1268": {
+        "code": 0,
+        "comment": "The Minangkabau language does not have a noun class or gender system that distinguishes plants from other concepts. There is no evidence of a semantic category or grammatical agreement system involving plant status as a factor in noun class assignment.",
+        "source": ""
+    },
+    "GB057-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau does not have numeral classifiers that are obligatory for high countability nouns. The language does not use markers that vary according to the semantic class of the noun with cardinal numerals.",
+        "source": ""
+    },
+    "GB058-mina1268": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine whether Minangkabau has an independent possessive classifier system as described in the procedure.",
+        "source": ""
+    },
+    "GB059-mina1268": {
+        "code": 1,
+        "comment": "In Minangkabau, the adnominal possessive construction distinguishes between alienable and inalienable possession. Inalienable possessions, such as body parts and kinship terms, typically use a direct possessive construction where the possessor is directly attached to the noun. In contrast, alienable possessions often require a possessive marker or linker to indicate possession, reflecting a morphosyntactic distinction between the two types of possession.",
+        "source": ""
+    },
+    "GB065-mina1268": {
+        "code": 1,
+        "comment": "In Minangkabau, the pragmatically unmarked order for adnominal possession is typically possessor-possessed, where the possessor precedes the possessum.",
+        "source": ""
+    },
+    "GB068-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, property words do not typically take on verbal morphology in predicative positions. They often require additional elements, such as copulas, which are not obligatory with verbs. Therefore, the coding is 0 as property words are not marked similarly to verbs.",
+        "source": ""
+    },
+    "GB069-mina1268": {
+        "code": 1,
+        "comment": "In Minangkabau, adnominal property words do not require additional morphological treatment distinct from verbs when used attributively, aligning with their treatment in participles and relativized forms.",
+        "source": ""
+    },
+    "GB070-mina1268": {
+        "code": "0",
+        "comment": "not mentioned",
+        "source": ""
+    },
+    "GB071-mina1268": {
+        "code": 0,
+        "comment": "not mentioned",
+        "source": ""
+    },
+    "GB072-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, oblique functions are typically marked using phonologically free adpositions rather than phonologically bound means such as affixation or clitics. Therefore, there is no morphological case marking for oblique non-pronominal NPs.",
+        "source": ""
+    },
+    "GB073-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, oblique functions are marked on pronouns using phonologically free adpositions rather than morphological case marking. There is no indication of tone, affixation, or any other type of bound marking for oblique cases on pronouns.",
+        "source": ""
+    },
+    "GB074-mina1268": {
+        "code": 1,
+        "comment": "Minangkabau has prepositions as indicated in grammatical sources, with no evidence conflicting with the Grambank definition. Phonological boundness is not specified as an issue.",
+        "source": ""
+    },
+    "GB075-mina1268": {
+        "code": "0",
+        "comment": "The available information on the Minangkabau language suggests the use of prepositions rather than postpositions. There is no mention of free postpositions or postpositional enclitics in the language descriptions available, aligning with procedures 3 and 5.",
+        "source": ""
+    },
+    "GB079-mina1268": {
+        "code": "1",
+        "comment": "Minangkabau verbs have prefixes or proclitics that mark TAM or other grammatical functions beyond core argument marking. This analysis is based on the presence of such prefixes in linguistic sources.",
+        "source": ""
+    },
+    "GB080-mina1268": {
+        "code": "1",
+        "comment": "Minangkabau verbs can have suffixes or enclitics marking TAM or negation. This analysis is based on the presence of orthographically bound elements in Minangkabau, such as the negation marker '-lah'.",
+        "source": ""
+    },
+    "GB081-mina1268": {
+        "code": "0",
+        "comment": "There is no evidence of productive infixation in verbs in Minangkabau. If any infixation is present, it may involve reduplication, but no non-reduplicative infixes are mentioned.",
+        "source": ""
+    },
+    "GB082-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, present tense is typically not marked by any overt morphological means on the verb itself. Instead, tense is often indicated by context or time adverbs, and the absence of other tense markers can imply a present tense meaning. Therefore, according to the procedure, the code is 0 as present tense is not marked by affixation, clitics, or other morphological means on the verb.",
+        "source": ""
+    },
+    "GB083-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau does not have an overt morphological marking dedicated to past tense on the verb. The past tense is often indicated by context or by using time adverbs, rather than specific morphological changes to the verb.",
+        "source": ""
+    },
+    "GB084-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, future tense is typically indicated by context or particles, rather than overt morphological marking on the verb. There is no specific affix, clitic, or other morphological marker dedicated to future tense on the verb itself.",
+        "source": ""
+    },
+    "GB086-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there is no morphological distinction between perfective and imperfective aspect available on verbs. Aspects are typically expressed through context or auxiliary words rather than affixes, clitics, or other morphological means directly on the verb.",
+        "source": ""
+    },
+    "GB089-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there is no indexing of the S argument by a suffix or enclitic on the verb in simple independent clauses. The language does not employ phonologically bound elements that index the S argument following the verb. Therefore, according to the procedure, the appropriate code is 0.",
+        "source": ""
+    },
+    "GB090-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, the S argument is not indexed by a prefix or proclitic on the verb. Indexing, if present, does not occur in this manner.",
+        "source": ""
+    },
+    "GB091-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there is no suffix or enclitic that indexes the A argument on the verb. Argument indexing is not done through suffixation or enclitics following the verb.",
+        "source": ""
+    },
+    "GB092-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, the A argument is not indexed by a prefix or proclitic on the verb. The language does not exhibit pronominal agreement or argument cross-referencing in this manner. Therefore, according to the procedure, the appropriate code is 0.",
+        "source": ""
+    },
+    "GB093-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, P arguments are not indexed by suffixes or enclitics on the verb. The language does not exhibit verbal morphology that indexes P arguments in this manner according to available descriptions.",
+        "source": ""
+    },
+    "GB094-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, the P argument is not indexed by a prefix or proclitic on the verb in simple independent clauses. Verbal morphology does not include a phonologically bound element that indexes the P argument preceding the verbal host.",
+        "source": ""
+    },
+    "GB095-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there is no evidence of variations in the marking strategies of core participants based on TAM distinctions. The language does not exhibit split ergativity or differential subject marking that is dependent on TAM categories. Additionally, the indexing patterns do not change alignment or position with different TAM categories, remaining consistent across contexts.",
+        "source": ""
+    },
+    "GB096-mina1268": {
+        "code": "IDK",
+        "comment": "I do not have specific information about the Minangkabau language's marking strategies of core participants based on verb classes to determine if variations occur according to the described procedure.",
+        "source": ""
+    },
+    "GB098-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, there is no significant variation in the marking strategies of core participants based on person distinctions that result in different alignment patterns or positional differences. Person distinctions do not affect the overall alignment pattern or the position of the markers.",
+        "source": ""
+    },
+    "GB099-mina1268": {
+        "code": "0",
+        "comment": "There is no evidence that Minangkabau has at least three verbs with suppletive allomorphs conditioned by the person of S, A, or P arguments. If any exist, they are not well-documented.",
+        "source": ""
+    },
+    "GB103-mina1268": {
+        "code": "?",
+        "comment": "There is not enough information available to determine if Minangkabau has a benefactive marker or indexing on verbs based on the provided information. Further research into specific linguistic resources about Minangkabau's verbal morphology and argument structure would be needed.",
+        "source": ""
+    },
+    "GB104-mina1268": {
+        "code": "?",
+        "comment": "There is not enough information available in the provided data to determine if Minangkabau has an instrumental marker or indexes instruments on verbs.",
+        "source": ""
+    },
+    "GB105-mina1268": {
+        "code": "IDK",
+        "comment": "I do not have specific information about the argument marking patterns for ditransitive constructions in Minangkabau. More detailed analysis of a grammar text would be required to determine if recipients in such constructions are marked like transitive patients.",
+        "source": ""
+    },
+    "GB107-mina1268": {
+        "code": "IDK",
+        "comment": "The available information does not provide sufficient details on whether standard negation in Minangkabau is marked by an affix, clitic, or modification of the verb. Further research into specific linguistic descriptions of Minangkabau is needed to determine if and how negation is phonologically bound to the verb.",
+        "source": ""
+    },
+    "GB108-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau does not have a bound marker on verbs that specifically indicates direction or location.",
+        "source": ""
+    },
+    "GB109-mina1268": {
+        "code": "0",
+        "comment": "There is no evidence that Minangkabau uses verb suppletion for participant number. The language does not show strong suppletion for verbs based on participant number, nor are there at least three verbs exhibiting such a feature.",
+        "source": ""
+    },
+    "GB110-mina1268": {
+        "code": "?",
+        "comment": "There is limited information available on verb suppletion for tense or aspect in Minangkabau. The language's verb system is not well-documented in terms of strong suppletion for tense or aspect, hence it's unclear if there are at least three examples of suppletive stems for these grammatical categories.",
+        "source": ""
+    },
+    "GB111-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, verb inflection does not involve multiple conjugation classes with non-phonological allomorphy for finiteness marking. Differences in verb forms are due to morphophonological alternations rather than distinct conjugation classes.",
+        "source": ""
+    },
+    "GB113-mina1268": {
+        "code": "?",
+        "comment": "There is not enough data or analysis to establish the presence or absence of a bound transitivizing morpheme in Minangkabau.",
+        "source": ""
+    },
+    "GB114-mina1268": {
+        "code": "?",
+        "comment": "There is not enough data or analysis in the available sources to determine whether there is a phonologically bound reflexive marker on verbs in Minangkabau.",
+        "source": ""
+    },
+    "GB115-mina1268": {
+        "code": "?",
+        "comment": "There is not enough data or analysis in the provided information to determine whether there is a phonologically bound reciprocal marker on verbs in Minangkabau.",
+        "source": ""
+    },
+    "GB116-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there is no system of verbal classification that indicates the shape, size, or consistency of absolutive arguments through incorporated nouns, verbal affixes, or suppletive verb stems. The language does not have this feature as described.",
+        "source": ""
+    },
+    "GB117-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, equative sentences with predicate nominals typically use a zero copula, meaning no explicit copula is used to link the subject and predicate nominals.",
+        "source": ""
+    },
+    "GB118-mina1268": {
+        "code": "?",
+        "comment": "There is not enough specific information on Minangkabau to determine the presence of serial verb constructions. Available resources might not have thoroughly examined this aspect or may have overlooked such constructions.",
+        "source": ""
+    },
+    "GB119-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, mood is typically not marked by inflecting words such as auxiliary verbs. The language primarily uses affixes rather than auxiliary verbs to express grammatical moods. Therefore, based on the provided procedure, the code is 0.",
+        "source": ""
+    },
+    "GB120-mina1268": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the grammatical description of aspect marking in Minangkabau to determine if an inflecting word, such as an auxiliary verb, marks aspect in the language.",
+        "source": ""
+    },
+    "GB121-mina1268": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether Minangkabau uses inflecting words to mark tense, such as auxiliary verbs or pronouns that take TAM marking. Further research into Minangkabau grammar would be needed to determine the correct code.",
+        "source": ""
+    },
+    "GB122-mina1268": {
+        "code": "?",
+        "comment": "It is unclear how productive verb compounding is in Minangkabau, as there is limited information on whether there is a conventionalized process for combining verbs into a single lexicalized word.",
+        "source": ""
+    },
+    "GB123-mina1268": {
+        "code": 0,
+        "comment": "There is no specific evidence or examples of light-verb constructions in Minangkabau where verbs with a general meaning combine with non-verbal elements to form new verbal predicates. Instances found can be analyzed as serial verb constructions or verbal compounds instead.",
+        "source": ""
+    },
+    "GB124-mina1268": {
+        "code": "IDK",
+        "comment": "There is insufficient information available on the productivity of noun incorporation as an intransitivizing process in Minangkabau.",
+        "source": ""
+    },
+    "GB126-mina1268": {
+        "code": 1,
+        "comment": "In Minangkabau, the existential verb 'ada' is used to express existence, which is different from the equative or attributive copula. The equative or attributive construction typically uses other forms or constructions, distinguishing 'ada' as an existential element.",
+        "source": ""
+    },
+    "GB127-mina1268": {
+        "code": "?",
+        "comment": "There is insufficient information available on the use of posture verbs for locative predication in Minangkabau. The relevant grammatical resources do not provide clear examples or indications regarding whether posture verbs are obligatorily used based on the shape or position of an inanimate locatum.",
+        "source": ""
+    },
+    "GB129-mina1268": {
+        "code": 0,
+        "comment": "There is no mention of Minangkabau having a notably small number of verb roots or being a restricted word class.",
+        "source": ""
+    },
+    "GB130-mina1268": {
+        "code": "1",
+        "comment": "In Minangkabau, the pragmatically unmarked order of subject and verb in intransitive clauses is typically Subject-Verb (SV).",
+        "source": ""
+    },
+    "GB131-mina1268": {
+        "code": "?",
+        "comment": "The pragmatically unmarked constituent order for transitive clauses in Minangkabau is not specified in the information provided and cannot be determined from examples.",
+        "source": ""
+    },
+    "GB132-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, the unmarked word order for transitive clauses is typically SOV. This order is not SVO or OVS, which are not the unmarked orders in this language.",
+        "source": ""
+    },
+    "GB133-mina1268": {
+        "code": "?",
+        "comment": "The pragmatically unmarked constituent order of verb-final for transitive clauses in Minangkabau is not mentioned and cannot be determined by examining examples based on the provided information.",
+        "source": ""
+    },
+    "GB134-mina1268": {
+        "code": "?",
+        "comment": "There is insufficient information about the order of constituents in subordinate clauses for Minangkabau, and the grammar does not explicitly state the word order patterns in comparison to main clauses.",
+        "source": ""
+    },
+    "GB135-mina1268": {
+        "code": "?",
+        "comment": "There is insufficient information available regarding the positioning of clausal objects in Minangkabau relative to nominal objects. The available resources do not provide explicit examples or descriptions that address this specific feature, making it difficult to ascertain whether clausal objects occur in the same position as nominal objects.",
+        "source": ""
+    },
+    "GB136-mina1268": {
+        "code": 1,
+        "comment": "In Minangkabau, the order of core arguments typically follows a Subject-Verb-Object (SVO) pattern. Permutations of this order are not common and often change the propositional content or require additional elements such as intonation changes. Therefore, the order of core arguments is considered fixed.",
+        "source": ""
+    },
+    "GB137-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, standard negation is typically marked by the word 'tidak' or 'tak', which precedes the verb, rather than appearing clause-finally. There is no evidence in the available literature that suggests the presence of clause-final negation in standard declarative sentences with dynamic verbal predicates.",
+        "source": ""
+    },
+    "GB138-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, standard negation does not typically involve a clause-initial negator. The negation is usually marked with the particle 'tidak' or its variant 'tak', which are placed before the verb but not in an initial position of the clause. Therefore, the code is 0 according to the given procedure.",
+        "source": ""
+    },
+    "GB139-mina1268": {
+        "code": "?",
+        "comment": "There is no specific available descriptive literature on Minangkabau that details the differences between negative imperative and declarative negation constructions. Therefore, the code is '?'.",
+        "source": ""
+    },
+    "GB140-mina1268": {
+        "code": "?",
+        "comment": "There is insufficient information on the negation of locational, existential, and nominal predication in Minangkabau to determine if they share the same negator as verbal negation.",
+        "source": ""
+    },
+    "GB146-mina1268": {
+        "code": "?",
+        "comment": "There is not enough data available regarding the specific morphosyntactic distinction between controlled and uncontrolled events or states in Minangkabau. The sources do not provide sufficient information on this aspect of the language, making it unclear whether such constructions exist.",
+        "source": ""
+    },
+    "GB147-mina1268": {
+        "code": 0,
+        "comment": "Sources on Minangkabau language indicate that passive constructions are typically formed with the use of phonologically free markers or other means, and there is no mention of a phonologically bound morpheme marking passive clauses on the lexical verb.",
+        "source": ""
+    },
+    "GB148-mina1268": {
+        "code": "0",
+        "comment": "There is no mention of a phonologically bound antipassive marker in the sources for Minangkabau. Valency changing operations are discussed, but antipassive constructions are not mentioned.",
+        "source": ""
+    },
+    "GB149-mina1268": {
+        "code": 0,
+        "comment": "There is no evidence or discussion in the grammar of Minangkabau indicating the presence of a morphologically marked inverse system on verbs, where a marker indicates that the patient outranks the agent on an animacy or person hierarchy.",
+        "source": ""
+    },
+    "GB150-mina1268": {
+        "code": "?",
+        "comment": "I am uncertain whether Minangkabau has a construction that meets the criteria for clause-chaining or if the examples involve another construction like serial verbs or verb compounding.",
+        "source": ""
+    },
+    "GB151-mina1268": {
+        "code": 0,
+        "comment": "There is no overt morphological marker in Minangkabau that signals coreference or noncoreference between the subject of one clause and an argument of an adjacent clause. Therefore, the language is coded as 0 according to the procedure.",
+        "source": ""
+    },
+    "GB152-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, simultaneous or sequential actions are typically implied through context or other grammatical constructions rather than overt markers on the verb. Therefore, there is no dedicated marker indicating temporal relationships directly on the verb.",
+        "source": ""
+    },
+    "GB155-mina1268": {
+        "code": 1,
+        "comment": "Minangkabau forms causatives using a prefix 'pa-' which is a phonologically bound morpheme, thus fulfilling the criteria for a causative marker.",
+        "source": ""
+    },
+    "GB156-mina1268": {
+        "code": "?",
+        "comment": "There are no sources treating causatives or other valency changing operations in the Minangkabau language, or the treatment of them is very limited.",
+        "source": ""
+    },
+    "GB158-mina1268": {
+        "code": "?",
+        "comment": "There is no specific information available on whether verbs in Minangkabau are productively reduplicated. Without more detailed linguistic sources or examples, the analysis remains inconclusive.",
+        "source": ""
+    },
+    "GB159-mina1268": {
+        "code": "1",
+        "comment": "In Minangkabau, there is productive reduplication of nouns. This process is commonly used to indicate plurality or various other semantic nuances, making it a productive morphological process.",
+        "source": ""
+    },
+    "GB160-mina1268": {
+        "code": "?",
+        "comment": "There is insufficient information provided about the Minangkabau language's use of reduplication in word classes other than verbs and nouns. Without specific sources or examples, it's unclear whether productive reduplication occurs in other classes such as adjectives, adverbs, numerals, or function words. Therefore, the analysis remains inconclusive.",
+        "source": ""
+    },
+    "GB165-mina1268": {
+        "code": 0,
+        "comment": "The Minangkabau language does not have a productive morphological trial marker on nouns. The grammar does not describe such a marker, nor is there evidence of number marking that includes trial number in a productive manner across nouns.",
+        "source": ""
+    },
+    "GB166-mina1268": {
+        "code": 0,
+        "comment": "The Minangkabau language does not have a productive morphological paucal marker on nouns. There is no regular bound marker for paucal number that occurs with an open set of nouns. If any paucal marking exists, it is not productive or is marked elsewhere than on the noun.",
+        "source": ""
+    },
+    "GB167-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there is no distinct logophoric pronoun form that differentiates the speaker/thinker in reported speech from other third-person referents. The same third-person pronouns are used regardless of whether the referent is the speaker/thinker or another individual.",
+        "source": ""
+    },
+    "GB170-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau does not have a gender/noun class system that affects agreement with adjectives.",
+        "source": ""
+    },
+    "GB171-mina1268": {
+        "code": 0,
+        "comment": "The Minangkabau language does not have a gender/noun class system that affects adnominal demonstratives. Demonstratives in Minangkabau do not show agreement with the noun in terms of noun class or gender.",
+        "source": ""
+    },
+    "GB172-mina1268": {
+        "code": "IDK",
+        "comment": "The Minangkabau language does not have noun classes or gender in the same way that some other languages do, and typically does not use articles in a way that would involve agreement in noun class or gender. However, since the procedure requires specific evidence of bound markers or shape changes in articles for agreement, and such features are generally not characteristic of Minangkabau, I do not have sufficient information to definitively code 1 according to the given procedure.",
+        "source": ""
+    },
+    "GB177-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, the verb does not carry a marker of animacy of argument that is unrelated to any noun class/gender system. The language primarily indexes person, number, and clusivity, and the marking is the same for both animate and inanimate referents. Therefore, it does not meet the criteria for coding 1.",
+        "source": ""
+    },
+    "GB184-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, adnominal property words do not agree with the noun in number. There is no evidence or indication in the data that suggests such agreement exists, either in regular or relativized forms.",
+        "source": ""
+    },
+    "GB185-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, adnominal demonstratives do not vary according to the number of the head noun. There is no evidence of number agreement in adnominal demonstratives as the language typically does not mark number on nouns or demonstratives.",
+        "source": ""
+    },
+    "GB186-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, articles do not vary according to the number of the head noun. Therefore, articles do not agree with the noun in number.",
+        "source": ""
+    },
+    "GB187-mina1268": {
+        "code": "?",
+        "comment": "The sources available do not provide comprehensive information about productive diminutive marking in the Minangkabau language, specifically regarding phonologically bound morphemes that denote small size.",
+        "source": ""
+    },
+    "GB188-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, there is no evidence of a productive augmentative morpheme that is phonologically bound to nouns. Augmentative marking is not a feature of this language according to available data.",
+        "source": ""
+    },
+    "GB192-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there is no system of noun class or gender where the phonological properties of a noun are a factor in class assignment. Thus, the criteria for coding 1 are not met.",
+        "source": ""
+    },
+    "GB193-mina1268": {
+        "code": 2,
+        "comment": "In Minangkabau, the typical order is for adnominal property words to be placed after nouns.",
+        "source": ""
+    },
+    "GB196-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau second person independent pronouns do not contrast in gender. They do not have different forms for masculine or feminine referents.",
+        "source": ""
+    },
+    "GB197-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau first person independent pronouns do not have a masculine/feminine distinction.",
+        "source": ""
+    },
+    "GB198-mina1268": {
+        "code": 0,
+        "comment": "The Minangkabau language does not have a gender/noun class system. Therefore, adnominal numerals do not show agreement with nouns based on gender or noun class.",
+        "source": ""
+    },
+    "GB203-mina1268": {
+        "code": "?",
+        "comment": "There is insufficient information available to determine the order of the adnominal collective universal quantifier and the noun in Minangkabau.",
+        "source": ""
+    },
+    "GB204-mina1268": {
+        "code": "?",
+        "comment": "There is insufficient information available regarding the use of universal quantifiers in Minangkabau to determine if there are differences in form or syntactic position between collective and distributive quantification.",
+        "source": ""
+    },
+    "GB250-mina1268": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Minangkabau using a transitive 'habeo' verb. Further research into Minangkabau grammar is needed to determine if such a construction exists.",
+        "source": ""
+    },
+    "GB252-mina1268": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Minangkabau, particularly whether it uses a locative-coded possessor with an S-like possessum.",
+        "source": ""
+    },
+    "GB253-mina1268": {
+        "code": "?",
+        "comment": "There is no specific information available on predicative possession in Minangkabau that indicates a construction with a finite verb where the subject is the possessum and the possessor is coded like a recipient/dative object/with elements meaning 'to/for'.",
+        "source": ""
+    },
+    "GB254-mina1268": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Minangkabau, particularly concerning the use of an S-like possessum and a possessor coded like an adnominal possessor.",
+        "source": ""
+    },
+    "GB256-mina1268": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Minangkabau using a comitative/conjunctional construction. Without access to detailed linguistic descriptions or examples, it is not possible to determine if such a construction exists in the language.",
+        "source": ""
+    },
+    "GB257-mina1268": {
+        "code": "1",
+        "comment": "In Minangkabau, a sentence can become a question by changing the intonation, without the use of additional markers.",
+        "source": ""
+    },
+    "GB260-mina1268": {
+        "code": "?",
+        "comment": "There is limited data available on whether Minangkabau uses word order to indicate polar questions without other markers.",
+        "source": ""
+    },
+    "GB262-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, polar questions are typically formed by intonation or by using question particles that do not appear at the beginning of the clause. There is no dedicated phonologically free polar interrogative particle that appears at the beginning of the clause.",
+        "source": ""
+    },
+    "GB263-mina1268": {
+        "code": "?",
+        "comment": "Polar interrogation in Minangkabau is not well described, and there is insufficient information or examples available to determine whether there is a clause-final polar interrogative particle.",
+        "source": ""
+    },
+    "GB264-mina1268": {
+        "code": "?",
+        "comment": "Polar interrogation is not well described for the Minangkabau language, and there is insufficient information available regarding the presence of a mid-clause interrogative particle.",
+        "source": ""
+    },
+    "GB265-mina1268": {
+        "code": 1,
+        "comment": "Minangkabau has a comparative construction that uses the verb 'luluih', meaning 'surpass' or 'exceed', which is also used outside of comparative contexts.",
+        "source": ""
+    },
+    "GB266-mina1268": {
+        "code": 1,
+        "comment": "In Minangkabau, the comparative construction employs the word 'dari' as the marker of the standard of comparison, which also has a locational meaning equivalent to 'from' in English.",
+        "source": ""
+    },
+    "GB270-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau can conjoin clauses with similar roles, but this is not a dedicated comparative construction.",
+        "source": ""
+    },
+    "GB273-mina1268": {
+        "code": "IDK",
+        "comment": "Insufficient information on Minangkabau comparative constructions with dedicated markers to determine if they meet the criteria specified.",
+        "source": ""
+    },
+    "GB275-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, comparative constructions typically do not use a bound degree marker on the property word. Instead, comparisons are often made using separate words like 'lebih' (more) or 'kurang' (less) before the adjective, which are not bound to the property word.",
+        "source": ""
+    },
+    "GB276-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, comparative constructions typically do not use a non-bound degree marker modifying the property word. Instead, comparisons are often made contextually or through other syntactic structures. Thus, there is no phonologically free degree marker expressing superiority.",
+        "source": ""
+    },
+    "GB285-mina1268": {
+        "code": "0",
+        "comment": "The information available does not mention the presence of interrogative verbal morphology and interrogative particles in Minangkabau. Other polar interrogative constructions might exist, but they are not detailed in this context.",
+        "source": ""
+    },
+    "GB286-mina1268": {
+        "code": "0",
+        "comment": "The grammar does not discuss the use of overt verbal morphology for polar questions, and other constructions might be mentioned without specific focus on interrogative verbal morphology.",
+        "source": ""
+    },
+    "GB291-mina1268": {
+        "code": "IDK",
+        "comment": "There is insufficient information about the use of tone in Minangkabau specifically for marking polar interrogation. Further research into the language's phonological and grammatical structures is needed to determine if tone is utilized in this manner.",
+        "source": ""
+    },
+    "GB296-mina1268": {
+        "code": "?",
+        "comment": "There is not enough specific information available about Minangkabau ideophones that depict imagery beyond sound or their phonological/morphosyntactic characteristics compared to other word classes. Further research may be needed to determine if such ideophones exist and how they are characterized in the language.",
+        "source": ""
+    },
+    "GB297-mina1268": {
+        "code": "?",
+        "comment": "There is not enough information available on how questions are formed in Minangkabau to determine if the V-not-V construction is used for polar interrogation.",
+        "source": ""
+    },
+    "GB298-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, standard negation is typically marked by the word 'tidak' or 'ndak', which do not inflect for tense, aspect, mood, person, or number. These are non-inflecting particles rather than auxiliary verbs, so the language does not have inflecting words that mark negation.",
+        "source": ""
+    },
+    "GB299-mina1268": {
+        "code": "1",
+        "comment": "In Minangkabau, standard negation is marked by the non-inflecting word 'tidak', which functions as an auxiliary particle. It is phonologically free and does not change form based on TAM, person, number, or other categories.",
+        "source": ""
+    },
+    "GB300-mina1268": {
+        "code": "?",
+        "comment": "The verb paradigm for 'give' in Minangkabau is not described in the given data.",
+        "source": ""
+    },
+    "GB301-mina1268": {
+        "code": "?",
+        "comment": "The information available does not specify whether Minangkabau has inclusory constructions. Further research or specific examples would be needed to determine this.",
+        "source": ""
+    },
+    "GB302-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau typically uses verb-coded passives, with passive forms marked by bound morphemes on the verb. There is no mention of a phonologically independent particle or auxiliary specifically for passive marking.",
+        "source": ""
+    },
+    "GB303-mina1268": {
+        "code": "0",
+        "comment": "Sources indicate that Minangkabau does not have a phonologically free antipassive marker, or if there is valency changing operations discussed, antipassive is not mentioned.",
+        "source": ""
+    },
+    "GB304-mina1268": {
+        "code": "?",
+        "comment": "There is not enough data or examples available to determine if the agent can be overtly expressed in a passive clause in Minangkabau.",
+        "source": ""
+    },
+    "GB305-mina1268": {
+        "code": 0,
+        "comment": "not mentioned",
+        "source": ""
+    },
+    "GB306-mina1268": {
+        "code": "?",
+        "comment": "IDK",
+        "source": ""
+    },
+    "GB309-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, there is typically a single past tense category and a single future tense category without distinctions based on remoteness of time. Temporal distinctions are not marked by separate forms that distinguish remoteness.",
+        "source": ""
+    },
+    "GB312-mina1268": {
+        "code": "?",
+        "comment": "The available linguistic resources on Minangkabau do not provide comprehensive information on overt morphological marking on the verb dedicated to mood. Therefore, it is unclear whether such marking exists in Minangkabau.",
+        "source": ""
+    },
+    "GB313-mina1268": {
+        "code": "IDK",
+        "comment": "The specific possessive pronoun formation processes in Minangkabau are not well-documented in the data available. Without detailed information on whether Minangkabau uses phonologically independent, suppletive forms for possessive pronouns that differ from regular pronominal forms, it is not possible to determine the code accurately.",
+        "source": ""
+    },
+    "GB314-mina1268": {
+        "code": 0,
+        "comment": "The Minangkabau language does not have a gender or noun class system, and augmentative meaning is not expressed by a shift of noun class or gender. Therefore, the conditions for code 1 are not met.",
+        "source": ""
+    },
+    "GB315-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau does not have noun classes or grammatical gender, and diminutives are not expressed through a shift in gender or noun class.",
+        "source": ""
+    },
+    "GB316-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, singular number is not marked productively by a free-standing element. The language typically does not have a separate free-standing marker for singular number in noun phrases.",
+        "source": ""
+    },
+    "GB317-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, there is no evidence of a productive and regular free-standing dual number marker in the noun phrase. The language typically does not mark dual number separately from singular or plural, and any number distinctions observed are not specifically for dual number. Therefore, it is coded as 0.",
+        "source": ""
+    },
+    "GB318-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, plural number is not marked by a phonologically free element. Instead, reduplication is often used, which is a bound morphological process, to indicate plural forms. Therefore, there is no overt free-standing marker of plural number that occurs regularly in the language.",
+        "source": ""
+    },
+    "GB319-mina1268": {
+        "code": 0,
+        "comment": "The Minangkabau language does not have a regular, free-standing marker for trial number in noun phrases. Number marking is not typically described in the grammars of Minangkabau, and there is no evidence of a productive or regular system for marking trial number in this way.",
+        "source": ""
+    },
+    "GB320-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, paucal number is not marked productively in the noun phrase by a free-standing marker. There is no evidence in the grammar that suggests a regular free-standing marker for paucal number, and the description aligns with bound or non-productive marking.",
+        "source": ""
+    },
+    "GB321-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau does not have a large or open class of nouns whose assignment to a noun class or gender is not predictable based on phonology or semantics. The language's noun classification system is generally predictable and does not exhibit arbitrary assignment of nouns to classes.",
+        "source": ""
+    },
+    "GB322-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau does not have grammatical markers dedicated to expressing direct sensory evidence. It relies on lexical means such as adverbs or verbs.",
+        "source": ""
+    },
+    "GB323-mina1268": {
+        "code": "0",
+        "comment": "Minangkabau does not have grammatical markers specifically dedicated to expressing indirect evidence such as hearsay or inference. Such meanings are typically conveyed through lexical means, such as adverbs or lexical verbs, rather than grammatical markers.",
+        "source": ""
+    },
+    "GB324-mina1268": {
+        "code": "?",
+        "comment": "The source does not describe content interrogative constructions in much detail, and there is insufficient evidence to determine whether Minangkabau has interrogative verbs with wh- meanings.",
+        "source": ""
+    },
+    "GB325-mina1268": {
+        "code": "?",
+        "comment": "There is insufficient information available on the specific interrogative forms used to quantify count and mass nouns in Minangkabau. Examples and glossing for both 'how much' and 'how many' are not provided, making it impossible to determine if there is a count/mass distinction in interrogative quantifiers.",
+        "source": ""
+    },
+    "GB326-mina1268": {
+        "code": "?",
+        "comment": "There is insufficient evidence in the provided data to determine whether Minangkabau commonly uses in situ constructions for nominal wh-constituents in content questions. Further linguistic resources or native speaker insights would be needed to accurately answer this question.",
+        "source": ""
+    },
+    "GB327-mina1268": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine if Minangkabau allows non-correlative relative clauses to immediately follow the noun they modify.",
+        "source": ""
+    },
+    "GB328-mina1268": {
+        "code": "?",
+        "comment": "The available information does not provide clear evidence or examples of prenominal relative clauses in Minangkabau. Sources may not treat relative clauses in detail, leaving the possibility of prenominal relative clauses inconclusive.",
+        "source": ""
+    },
+    "GB329-mina1268": {
+        "code": "?",
+        "comment": "The available information does not provide specific details on whether Minangkabau has internally-headed relative clauses that are not correlative. The analysis remains inconclusive due to a lack of detailed sources addressing this specific aspect of Minangkabau syntax.",
+        "source": ""
+    },
+    "GB330-mina1268": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the presence or absence of correlative relative clauses in Minangkabau.",
+        "source": ""
+    },
+    "GB331-mina1268": {
+        "code": "IDK",
+        "comment": "The available information does not specify whether Minangkabau has non-adjacent relative clauses.",
+        "source": ""
+    },
+    "GB333-mina1268": {
+        "code": 1,
+        "comment": "The Minangkabau language uses a decimal numeral system. Numerals for multiples of 10 such as 30, 40, etc., are constructed on a decimal base, e.g., 30 is 'tigo puluh' (3x10), 40 is 'ampat puluh' (4x10), and so forth. This is consistent with the rules given for identifying a decimal system.",
+        "source": ""
+    },
+    "GB334-mina1268": {
+        "code": "0",
+        "comment": "The Minangkabau language does not exhibit a quinary numeral system. Numerals beyond 5 are not formed using 5 as a base.",
+        "source": ""
+    },
+    "GB335-mina1268": {
+        "code": "?",
+        "comment": "The available data does not provide enough information on Minangkabau numerals beyond 29 to determine if there is a vigesimal system. The sources available do not clearly mention or exemplify a vigesimal system for numbers higher than 29.",
+        "source": ""
+    },
+    "GB336-mina1268": {
+        "code": "?",
+        "comment": "The source does not contain enough data to verify whether or not there is a body-part tallying system in Minangkabau.",
+        "source": ""
+    },
+    "GB400-mina1268": {
+        "code": "IDK",
+        "comment": "The specific information about verbal morphology, TAM, voice, or negation in Minangkabau necessary to determine if all person categories are neutralized is not available in the provided data.",
+        "source": ""
+    },
+    "GB401-mina1268": {
+        "code": "?",
+        "comment": "There is insufficient information provided in the question to determine whether a class of patient-labile verbs exists in Minangkabau. The question does not include specific examples or references to labile verbs, valency, or transitivity for the Minangkabau language. Without additional data or examples from Minangkabau, it is not possible to conclude whether such a class of verbs exists.",
+        "source": ""
+    },
+    "GB402-mina1268": {
+        "code": "0",
+        "comment": "In Minangkabau, the verb for 'see' does not have suppletive forms and is typically non-variant.",
+        "source": ""
+    },
+    "GB403-mina1268": {
+        "code": "?",
+        "comment": "The verb paradigm for 'come' in Minangkabau is not described in the available data, so I cannot determine if it has suppletive forms.",
+        "source": ""
+    },
+    "GB408-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there is no overt flagging for the S, A, or P arguments. The language typically displays zero marking for these arguments, indicating that S and P are flagged identically, which aligns with the procedure point 4. Therefore, Minangkabau does not show accusative alignment in terms of flagging.",
+        "source": ""
+    },
+    "GB409-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, there is no ergative alignment of flagging. The language generally exhibits a nominative-accusative alignment, where the S and A arguments are treated similarly in terms of flagging, and there is no special marking for the A argument that would indicate ergative alignment.",
+        "source": ""
+    },
+    "GB410-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, the argument marking typically distinguishes between A, S, and P, with ergative-absolutive alignment found in the language. Therefore, A and P are often marked differently than S, which does not align with the criteria for neutral alignment as outlined in the procedure.",
+        "source": ""
+    },
+    "GB415-mina1268": {
+        "code": 1,
+        "comment": "In Minangkabau, there are multiple second person pronoun forms that reflect social relationships, intimacy, or respect. The pronouns 'awak' and 'kau' are used differently based on the level of formality and the social relationship between the speaker and the addressee.",
+        "source": ""
+    },
+    "GB421-mina1268": {
+        "code": "IDK",
+        "comment": "The specific information about the positioning of complementizers in Minangkabau for verbs of knowing and thinking is not available in the provided data.",
+        "source": ""
+    },
+    "GB422-mina1268": {
+        "code": "IDK",
+        "comment": "The available information does not specify the position of complementizers in Minangkabau for verbs of thinking or knowing. Without specific examples or descriptions about the postposed nature of complementizers in this context, I cannot provide a definitive answer.",
+        "source": ""
+    },
+    "GB430-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, possession is typically marked by suffixes or possessive pronouns rather than prefixes on the possessor. Therefore, there is no adnominal possession construction where a prefix or proclitic on the possessor functions to mark possession.",
+        "source": ""
+    },
+    "GB431-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, adnominal possession is typically marked by a possessive pronoun or suffix rather than a prefix or proclitic on the possessed noun. Therefore, adnominal possession is not marked by a prefix on the possessed noun.",
+        "source": ""
+    },
+    "GB432-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, adnominal possession is typically expressed without the use of a suffix or enclitic on the possessor noun or pronoun. Possession is often indicated through juxtaposition or other syntactic means, rather than by a phonologically bound element. Therefore, the construction described in the question does not apply to Minangkabau.",
+        "source": ""
+    },
+    "GB433-mina1268": {
+        "code": 0,
+        "comment": "In Minangkabau, possession is typically expressed using possessive pronouns or possessive particles rather than suffixes or enclitics attached to the possessed noun. Therefore, there is no adnominal possessive construction marked by a phonologically bound element that follows the possessed noun.",
+        "source": ""
+    },
+    "GB519-mina1268": {
+        "code": 0,
+        "comment": "Minangkabau does not use non-inflecting phonologically free markers to indicate mood. Mood is typically marked through other grammatical means, such as verbal affixes or other structures. Therefore, the language is coded as 0 for this feature.",
+        "source": ""
+    },
+    "GB520-mina1268": {
+        "code": "1",
+        "comment": "In Minangkabau, aspect can be marked by non-inflecting words, such as particles, which are phonologically free and clearly mark aspect.",
+        "source": ""
+    },
+    "GB521-mina1268": {
+        "code": "1",
+        "comment": "In Minangkabau, tense is marked by non-inflecting auxiliary particles such as 'lah' for past tense, which is phonologically free and does not change form depending on the core arguments.",
+        "source": ""
+    },
+    "GB522-mina1268": {
+        "code": 1,
+        "comment": "In Minangkabau, the S or A argument may be omitted in a pragmatically unmarked main clause when its referent can be inferred from context. This is consistent with the pro-drop phenomenon observed in many Austronesian languages, where context allows for the omission of the subject or agent argument.",
+        "source": ""
+    }
+}

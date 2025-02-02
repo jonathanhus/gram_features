@@ -1,0 +1,977 @@
+{
+    "GB020-kach1280": {
+        "code": "?",
+        "comment": "The available information does not provide enough analysis to determine whether Southern Jinghpaw has a definite or specific article. There is no comprehensive grammar or examples provided to make this determination.",
+        "source": ""
+    },
+    "GB021-kach1280": {
+        "code": "?",
+        "comment": "There is no explicit information available about the occurrence of indefinite/non-specific articles with indefinite/non-specific nominals in Southern Jinghpaw. Further analysis or examples are needed to determine the presence and use of indefinite articles in this language.",
+        "source": ""
+    },
+    "GB022-kach1280": {
+        "code": "?",
+        "comment": "Demonstratives and articles are not well described for Southern Jinghpaw, so it's uncertain whether prenominal articles exist.",
+        "source": ""
+    },
+    "GB023-kach1280": {
+        "code": "?",
+        "comment": "Demonstratives and articles are not well described in Southern Jinghpaw, so it is unclear if there are postnominal articles.",
+        "source": ""
+    },
+    "GB024-kach1280": {
+        "code": "1",
+        "comment": "In Southern Jinghpaw, the numeral precedes the noun in quantified noun phrases, so the order is Num-N.",
+        "source": ""
+    },
+    "GB025-kach1280": {
+        "code": 2,
+        "comment": "In Southern Jinghpaw, the pragmatically unmarked order is that the demonstrative follows the noun.",
+        "source": ""
+    },
+    "GB026-kach1280": {
+        "code": 0,
+        "comment": "There is no information or examples indicating that Southern Jinghpaw allows adnominal property words to occur discontinuously. The grammar does not mention this feature, and there are no sentences illustrating such a phenomenon in the available resources.",
+        "source": ""
+    },
+    "GB027-kach1280": {
+        "code": 0,
+        "comment": "In Southern Jinghpaw, there is no distinct element that differentiates nominal conjunction from comitative. The same element is used for both, indicating a lack of separate markers for NP coordination and comitative phrases.",
+        "source": ""
+    },
+    "GB028-kach1280": {
+        "code": "0",
+        "comment": "There is no evidence in the grammar of Southern Jinghpaw that discusses a distinction between inclusive and exclusive forms in pronoun systems or person indexing on verbs. No pronominal forms or indices are found in examples with grammatical information including INCL/EXCL.",
+        "source": ""
+    },
+    "GB030-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available on whether Southern Jinghpaw has gender distinctions in phonologically independent third person pronouns or demonstratives. Further linguistic research or data on the language is needed to determine this feature.",
+        "source": ""
+    },
+    "GB031-kach1280": {
+        "code": 0,
+        "comment": "There is no information available indicating that Southern Jinghpaw has dual or unit augmented forms across all person categories in either pronouns or person indexing paradigms. If dual is expressed through a non-dual form plus a separate marker, it does not meet the criteria for a code of 1.",
+        "source": ""
+    },
+    "GB035-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw does not have three or more adnominal demonstratives marking different degrees of distance.",
+        "source": ""
+    },
+    "GB036-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available about whether Southern Jinghpaw adnominal demonstratives show an elevation distinction.",
+        "source": ""
+    },
+    "GB037-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available on whether Southern Jinghpaw adnominal demonstratives exhibit a visible-nonvisible distinction.",
+        "source": ""
+    },
+    "GB038-kach1280": {
+        "code": "?",
+        "comment": "The status and function of potential classifiers in Southern Jinghpaw with demonstratives is unclear and requires further examples and analysis.",
+        "source": ""
+    },
+    "GB039-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the nonphonological allomorphy of noun number markers in Southern Jinghpaw to determine if the markers are predictable or not.",
+        "source": ""
+    },
+    "GB041-kach1280": {
+        "code": "?",
+        "comment": "There is little description of number marking of nouns in Southern Jinghpaw, so it is unclear if there are four or more examples of strong suppletion.",
+        "source": ""
+    },
+    "GB042-kach1280": {
+        "code": "0",
+        "comment": "The grammar does not describe any productive overt morphological singular marker on nouns in Southern Jinghpaw. Therefore, it is coded as 0 according to the procedure.",
+        "source": ""
+    },
+    "GB043-kach1280": {
+        "code": "0",
+        "comment": "The available information does not indicate a productive morphological dual marker on nouns in Southern Jinghpaw. If dual marking exists, it is not described as regular or productive, or it might occur on a restricted set of nouns or elsewhere in the grammar.",
+        "source": ""
+    },
+    "GB044-kach1280": {
+        "code": "0",
+        "comment": "The grammar does not describe a productive morphological plural marker on nouns in Southern Jinghpaw. If plural marking exists, it is not marked productively or regularly on nouns as per the provided guidelines.",
+        "source": ""
+    },
+    "GB046-kach1280": {
+        "code": "?",
+        "comment": "Not mentioned",
+        "source": ""
+    },
+    "GB047-kach1280": {
+        "code": "?",
+        "comment": "Nominalization is not discussed whatsoever in the provided information about Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB048-kach1280": {
+        "code": "?",
+        "comment": "The information provided does not discuss agent nominalization in Southern Jinghpaw, so it cannot be determined whether there is a productive morphological pattern for deriving an agent noun from a verb.",
+        "source": ""
+    },
+    "GB049-kach1280": {
+        "code": "?",
+        "comment": "Nominalization is not discussed whatsoever for Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB051-kach1280": {
+        "code": "0",
+        "comment": "Southern Jinghpaw does not have a noun class/gender system where masculine and feminine categories are a factor in class assignment. The language does not encode such distinctions in its grammatical structure.",
+        "source": ""
+    },
+    "GB052-kach1280": {
+        "code": "0",
+        "comment": "Southern Jinghpaw does not have a noun class/gender system where shape is a factor in class assignment. There is no evidence of a correlation between gender markers and the shape of referents in this language.",
+        "source": ""
+    },
+    "GB053-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine if Southern Jinghpaw has a noun class/gender system where animacy is a factor in class assignment.",
+        "source": ""
+    },
+    "GB054-kach1280": {
+        "code": "0",
+        "comment": "Southern Jinghpaw does not appear to have a noun class/gender system where plant status is a factor in class assignment. The language lacks a nominal classification system that assigns nouns to classes based on semantic categories such as plant status.",
+        "source": ""
+    },
+    "GB057-kach1280": {
+        "code": 1,
+        "comment": "Southern Jinghpaw uses numeral classifiers that vary depending on the semantic class of the noun, particularly for highly countable nouns like people, animals, and objects.",
+        "source": ""
+    },
+    "GB058-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the presence of possessive classifiers in Southern Jinghpaw from the given data or my training.",
+        "source": ""
+    },
+    "GB059-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw does not have multiple possessive constructions that vary based on the semantic class of the possessum. There is no morpho-syntactic distinction between alienable and inalienable possession according to the provided procedure.",
+        "source": ""
+    },
+    "GB065-kach1280": {
+        "code": "1",
+        "comment": "In Southern Jinghpaw, the possessor nominal or independent possessor pronoun precedes the possessum in the pragmatically unmarked order.",
+        "source": ""
+    },
+    "GB068-kach1280": {
+        "code": "0",
+        "comment": "In Southern Jinghpaw, property words require additional elements or morphology that are not obligatory with verbs when used predicatively. This indicates that property words do not share the same predicative marking as verbs, which aligns with code 0 according to the provided procedure.",
+        "source": ""
+    },
+    "GB069-kach1280": {
+        "code": 1,
+        "comment": "In Southern Jinghpaw, if adnominal property words, including in their relativized forms, receive markers which are used on attributive verbs (e.g. participles or relativized verbs), or if neither adnominal property words nor attributive verbs receive marking, then it is coded as 1. Additionally, if some adnominal property words follow this pattern whereas others do not, it is also coded as 1.",
+        "source": ""
+    },
+    "GB070-kach1280": {
+        "code": 0,
+        "comment": "not mentioned",
+        "source": ""
+    },
+    "GB071-kach1280": {
+        "code": "0",
+        "comment": "not mentioned",
+        "source": ""
+    },
+    "GB072-kach1280": {
+        "code": "?",
+        "comment": "There is not enough data or analysis available to determine whether oblique case is marked on nouns or noun phrases in Southern Jinghpaw. The sources do not provide clear information regarding the use of phonologically bound markers for oblique cases.",
+        "source": ""
+    },
+    "GB073-kach1280": {
+        "code": "?",
+        "comment": "There is not enough data or analysis to determine if oblique case is marked on pronouns in Southern Jinghpaw. The provided information does not specify whether markers are phonologically bound or free, and there are no examples of oblique arguments.",
+        "source": ""
+    },
+    "GB074-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw uses postpositions instead of prepositions, as indicated by available grammatical resources.",
+        "source": ""
+    },
+    "GB075-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine the presence of postpositions in Southern Jinghpaw language based on the provided criteria.",
+        "source": ""
+    },
+    "GB079-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient information to conclusively determine the presence or absence of prefixes or proclitics other than S, A, or P indexes in Southern Jinghpaw verbs.",
+        "source": ""
+    },
+    "GB080-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information provided about Southern_jinghpaw verb suffixes or enclitics in the context given. Therefore, I cannot determine if verbs have suffixes or enclitics other than S, A, or P indexes.",
+        "source": ""
+    },
+    "GB081-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient information available to determine whether the Southern Jinghpaw language employs productive infixation in verbs. Without specific examples or descriptions of infixation processes in the verbal domain, it is unclear if any stem-internal segments can be classified as productive infixes dedicated to grammatical functions. Further investigation is needed to identify possible infixation patterns and their productivity in this language.",
+        "source": ""
+    },
+    "GB082-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine whether Southern Jinghpaw has overt morphological marking of present tense on verbs. Further research into the grammatical description of the language is needed.",
+        "source": ""
+    },
+    "GB083-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available about overt morphological marking on the verb dedicated to past tense in Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB084-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about Southern Jinghpaw to determine whether there is overt morphological marking on the verb dedicated to future tense.",
+        "source": ""
+    },
+    "GB086-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available regarding whether Southern Jinghpaw has a morphological distinction between perfective and imperfective aspect on verbs.",
+        "source": ""
+    },
+    "GB089-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient data available on Southern Jinghpaw's verbal morphology and argument indexing to determine if the S argument can be indexed by a suffix/enclitic on the verb in a simple independent clause.",
+        "source": ""
+    },
+    "GB090-kach1280": {
+        "code": "IDK",
+        "comment": "The information regarding whether the Southern Jinghpaw language uses a prefix or proclitic to index the S argument on the verb is not available in the provided data. Further examination of the specific grammatical resources on Southern Jinghpaw would be needed to determine this.",
+        "source": ""
+    },
+    "GB091-kach1280": {
+        "code": 0,
+        "comment": "There is no information available indicating that the Southern Jinghpaw language uses a suffix or enclitic to index the A argument on the verb in simple independent clauses. Therefore, if indexing does occur, it is not by the means specified in the procedure.",
+        "source": ""
+    },
+    "GB092-kach1280": {
+        "code": "IDK",
+        "comment": "The available information does not specify if Southern Jinghpaw uses a prefix or proclitic to index the A argument in a simple independent clause. Further details on the verbal morphology and argument indexing would be needed to determine this.",
+        "source": ""
+    },
+    "GB093-kach1280": {
+        "code": "IDK",
+        "comment": "The specific information on whether Southern Jinghpaw uses a suffix or enclitic to index the P argument on the verb in a simple independent clause is not available in the provided data. Further detailed linguistic resources or grammar descriptions of Southern Jinghpaw are needed to determine this.",
+        "source": ""
+    },
+    "GB094-kach1280": {
+        "code": 0,
+        "comment": "In Southern Jinghpaw, there is no evidence of the P argument being indexed by a prefix or proclitic on the verb. The language does not use phonologically bound elements preceding the verb to index the P argument. Indexing, if present, is not done through prefixes or proclitics.",
+        "source": ""
+    },
+    "GB095-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available about variations in marking strategies of core participants based on TAM distinctions in Southern Jinghpaw. Further research or data is needed to provide an accurate answer.",
+        "source": ""
+    },
+    "GB096-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about the Southern Jinghpaw language's verb classes and their associated marking strategies to determine if variations in marking strategies of core participants are based on verb classes.",
+        "source": ""
+    },
+    "GB098-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the marking strategies of core participants in Southern Jinghpaw with respect to person distinctions. Therefore, I cannot determine if there is variation in alignment patterns or positions based on person distinctions as per the procedure provided.",
+        "source": ""
+    },
+    "GB099-kach1280": {
+        "code": "IDK",
+        "comment": "Insufficient information on Southern Jinghpaw verb suppletion for participant person.",
+        "source": ""
+    },
+    "GB103-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient information available about the Southern Jinghpaw language's verbal morphology or indexing system to determine if it has a benefactive marker or indexes beneficiaries on verbs. Further research or detailed linguistic resources would be required to accurately answer this question.",
+        "source": ""
+    },
+    "GB104-kach1280": {
+        "code": "?",
+        "comment": "There is not enough information available in the provided context to determine how instruments are coded in Southern Jinghpaw verbs. The procedure requires specific information about verbal morphology or explicit marking of instruments, which is not provided here.",
+        "source": ""
+    },
+    "GB105-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the morphological marking of recipient and patient arguments in Southern Jinghpaw ditransitive constructions.",
+        "source": ""
+    },
+    "GB107-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine whether standard negation in Southern Jinghpaw is marked by an affix, clitic, or modification of the verb. Further descriptive literature on the negation system in Southern Jinghpaw is needed to provide an accurate assessment.",
+        "source": ""
+    },
+    "GB108-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the presence of directional or locative morphological marking on verbs for Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB109-kach1280": {
+        "code": "?",
+        "comment": "There is little description of participant marking on verbs in Southern Jinghpaw, making it unclear if strong suppletion for participant number exists.",
+        "source": ""
+    },
+    "GB110-kach1280": {
+        "code": "?",
+        "comment": "There is limited information available regarding verb suppletion for tense or aspect in Southern Jinghpaw. Without specific examples or descriptions of suppletive forms, it is unclear whether strong suppletion occurs in this language.",
+        "source": ""
+    },
+    "GB111-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw does not exhibit non-phonological allomorphy of finiteness marking on verbs based on the verb chosen. Any differences in forms are due to morphophonological alternations.",
+        "source": ""
+    },
+    "GB113-kach1280": {
+        "code": "?",
+        "comment": "There is not enough data or analysis to establish the presence or absence of a bound transitivizing morpheme in Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB114-kach1280": {
+        "code": "?",
+        "comment": "There is not enough data or analysis in the available sources to determine whether there is a bound reflexive marker on verbs or whether it is productive.",
+        "source": ""
+    },
+    "GB115-kach1280": {
+        "code": "?",
+        "comment": "Not enough data or analysis in the grammar to determine the presence of a phonologically bound reciprocal marker on verbs.",
+        "source": ""
+    },
+    "GB116-kach1280": {
+        "code": "?",
+        "comment": "The distinction between verbal classifiers and noun class agreement in Southern Jinghpaw is unclear based on the available information.",
+        "source": ""
+    },
+    "GB117-kach1280": {
+        "code": 1,
+        "comment": "In Southern Jinghpaw, there is an element that can be used with predicate nominals, even if it has other functions, which fits the criteria for code 1.",
+        "source": ""
+    },
+    "GB118-kach1280": {
+        "code": "?",
+        "comment": "There is no specific information available on serial verb constructions in Southern Jinghpaw. It is unclear whether the language features these constructions or if they have been overlooked by sources.",
+        "source": ""
+    },
+    "GB119-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have access to specific grammatical descriptions for Southern Jinghpaw, so I cannot determine whether mood is marked by an inflecting word or auxiliary verb in this language.",
+        "source": ""
+    },
+    "GB120-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have access to specific grammatical descriptions of Southern Jinghpaw to determine if aspect is marked by an inflecting word such as an auxiliary verb.",
+        "source": ""
+    },
+    "GB121-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have specific information about the tense marking system in Southern Jinghpaw to determine if auxiliary verbs or inflecting words are used to mark tense.",
+        "source": ""
+    },
+    "GB122-kach1280": {
+        "code": "?",
+        "comment": "It is unclear how productive verb compounding is in Southern Jinghpaw based on the available information.",
+        "source": ""
+    },
+    "GB123-kach1280": {
+        "code": 0,
+        "comment": "There is no explicit information about verb-adjunct (light-verb) constructions in Southern Jinghpaw. Without examples or evidence of verbs combining with non-verbal elements to form new verbal predicates, it is assumed that such constructions are not present. Instances that might appear similar can be analyzed as serial verb constructions or verbal compounds.",
+        "source": ""
+    },
+    "GB124-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about Southern Jinghpaw to determine whether noun incorporation is a productive intransitivizing process in this language. Without specific data on its grammatical structures, I cannot assess whether it meets the criteria outlined in the procedure.",
+        "source": ""
+    },
+    "GB126-kach1280": {
+        "code": 0,
+        "comment": "There is no information suggesting that Southern Jinghpaw has an existential verb distinct from the equative or attributive copula.",
+        "source": ""
+    },
+    "GB127-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available on Southern Jinghpaw to determine whether different posture verbs are obligatorily used based on the shape or position of an inanimate locatum.",
+        "source": ""
+    },
+    "GB129-kach1280": {
+        "code": 0,
+        "comment": "There is no information indicating that Southern Jinghpaw has a notably small number of verb roots or that verbs are a restricted word class.",
+        "source": ""
+    },
+    "GB130-kach1280": {
+        "code": "?",
+        "comment": "The pragmatically unmarked order of S and V in intransitive clauses for Southern Jinghpaw is unclear from the provided information. Further investigation into the language's syntax would be required to determine whether the order is consistently SV, VS, or both in pragmatically unmarked contexts.",
+        "source": ""
+    },
+    "GB131-kach1280": {
+        "code": "?",
+        "comment": "The pragmatically unmarked constituent order for Southern Jinghpaw is not mentioned and cannot be determined by examining examples provided in the available data.",
+        "source": ""
+    },
+    "GB132-kach1280": {
+        "code": "?",
+        "comment": "The pragmatically unmarked constituent order for Southern Jinghpaw is not mentioned and cannot be determined by examining examples given the available information.",
+        "source": ""
+    },
+    "GB133-kach1280": {
+        "code": "?",
+        "comment": "The pragmatically unmarked constituent order for transitive clauses in Southern Jinghpaw is not mentioned and cannot be determined from the available information.",
+        "source": ""
+    },
+    "GB134-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about the word order patterns in subordinate clauses for Southern Jinghpaw. Further research or resources are needed to determine if the same word orders in main clauses apply to subordinate clauses.",
+        "source": ""
+    },
+    "GB135-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient information available about the positioning of clausal objects compared to nominal objects in Southern Jinghpaw. No explicit examples or descriptions of clausal objects in relation to nominal objects are provided in the available resources.",
+        "source": ""
+    },
+    "GB136-kach1280": {
+        "code": "?",
+        "comment": "The available information does not provide a clear discussion on whether the order of core arguments in Southern Jinghpaw is fixed or free. Further investigation into specific examples of word order permutations is needed to determine whether they meet the criteria of not changing the propositional content or requiring additional elements.",
+        "source": ""
+    },
+    "GB137-kach1280": {
+        "code": "IDK",
+        "comment": "There is no available information about the placement of standard negation markers in Southern_jinghpaw. Further descriptive literature would be needed to determine if clause-final negation is used in this language.",
+        "source": ""
+    },
+    "GB138-kach1280": {
+        "code": "IDK",
+        "comment": "There is no available information on Southern Jinghpaw negation in the provided data. Additional descriptive literature would be required to determine the position of negation markers in this language.",
+        "source": ""
+    },
+    "GB139-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available regarding the specific structures of imperative (prohibitive) and declarative negation in Southern Jinghpaw. More detailed linguistic resources are needed to determine if there are any differences in their constructions.",
+        "source": ""
+    },
+    "GB140-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient information available on locational, existential, and nominal predication negation in Southern Jinghpaw to determine if they share the same negator as verbal predication.",
+        "source": ""
+    },
+    "GB146-kach1280": {
+        "code": "?",
+        "comment": "There is not enough data available to determine if Southern Jinghpaw has morphosyntactic distinctions for uncontrolled events or states. No specific examples or constructions are mentioned in the provided information.",
+        "source": ""
+    },
+    "GB147-kach1280": {
+        "code": "?",
+        "comment": "There are no sources treating valency changing operations in the language or if treatment of them is very limited.",
+        "source": ""
+    },
+    "GB148-kach1280": {
+        "code": "?",
+        "comment": "There is no specific information available on morphological antipassive markers in Southern Jinghpaw. The treatment of valency changing operations in this language is either very limited or not available.",
+        "source": ""
+    },
+    "GB149-kach1280": {
+        "code": 0,
+        "comment": "There is no indication of a morphologically marked inverse system on verbs in Southern Jinghpaw. The language does not have markers that encode the outranking of the patient over the agent based on animacy or person hierarchy.",
+        "source": ""
+    },
+    "GB150-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have specific information regarding clause chaining in Southern Jinghpaw based on the provided criteria.",
+        "source": ""
+    },
+    "GB151-kach1280": {
+        "code": "IDK",
+        "comment": "The specific grammatical information about switch reference markers in Southern Jinghpaw is not available in the provided data. Further examination of detailed linguistic resources or grammars on Southern Jinghpaw would be necessary to determine the presence of such markers.",
+        "source": ""
+    },
+    "GB152-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific data available on whether Southern Jinghpaw has a morphologically marked distinction between simultaneous and sequential clauses.",
+        "source": ""
+    },
+    "GB155-kach1280": {
+        "code": "?",
+        "comment": "There is no specific information on causative markers in Southern Jinghpaw, or the treatment of valency changing operations in the language is very limited.",
+        "source": ""
+    },
+    "GB156-kach1280": {
+        "code": "?",
+        "comment": "There are no sources treating causatives or other valency changing operations in the Southern Jinghpaw language, or the treatment of them is very limited.",
+        "source": ""
+    },
+    "GB158-kach1280": {
+        "code": "?",
+        "comment": "Without specific sources mentioning the productive verbal reduplication in Southern Jinghpaw, the analysis remains inconclusive. Further detailed linguistic resources would be required to determine the presence or absence of this feature.",
+        "source": ""
+    },
+    "GB159-kach1280": {
+        "code": "?",
+        "comment": "There is no specific information available regarding the productive reduplication of nouns in Southern Jinghpaw. The analysis remains inconclusive without additional sources or data.",
+        "source": ""
+    },
+    "GB160-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available about reduplication in the Southern Jinghpaw language for elements other than verbs and nouns.",
+        "source": ""
+    },
+    "GB165-kach1280": {
+        "code": "0",
+        "comment": "The grammar does not describe a productive morphological trial marker on nouns in Southern Jinghpaw. If trial number marking is present, it is not marked productively on an open set of nouns, or it occurs on a restricted set or elsewhere than on the noun.",
+        "source": ""
+    },
+    "GB166-kach1280": {
+        "code": "0",
+        "comment": "The grammar does not describe a productive morphological paucal marker on nouns in Southern Jinghpaw. If number marking is mentioned, it is not described as occurring regularly on an open set of nouns as a bound marker for paucal number.",
+        "source": ""
+    },
+    "GB167-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw does not have a distinct logophoric pronoun form that differs from the standard third-person pronouns for reported speech contexts.",
+        "source": ""
+    },
+    "GB170-kach1280": {
+        "code": "0",
+        "comment": "There is no indication that Southern Jinghpaw has a gender/noun class system that influences agreement with adjectives. The absence of such a system implies that adnominal property words do not agree with the noun in noun class/gender.",
+        "source": ""
+    },
+    "GB171-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw does not have a noun class/gender system that affects agreement with adnominal demonstratives. There is no evidence of demonstratives agreeing in gender/noun class with their head noun.",
+        "source": ""
+    },
+    "GB172-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about Southern Jinghpaw regarding whether articles agree with nouns in noun class/gender. Further research is needed to provide a definitive answer.",
+        "source": ""
+    },
+    "GB177-kach1280": {
+        "code": 0,
+        "comment": "In Southern Jinghpaw, verbal morphology primarily involves indexing for person and number, similar for both animate and inanimate referents. There is no evidence of animacy affecting verb indexing independently of noun class or gender systems.",
+        "source": ""
+    },
+    "GB184-kach1280": {
+        "code": 0,
+        "comment": "There is no evidence or indication that adnominal property words in Southern Jinghpaw agree with the noun in number.",
+        "source": ""
+    },
+    "GB185-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information provided about Southern Jinghpaw regarding adnominal demonstratives and their agreement with nouns in number.",
+        "source": ""
+    },
+    "GB186-kach1280": {
+        "code": 0,
+        "comment": "In Southern Jinghpaw, articles do not agree with the noun in number.",
+        "source": ""
+    },
+    "GB187-kach1280": {
+        "code": "?",
+        "comment": "The available information does not comprehensively indicate whether Southern Jinghpaw has a phonologically bound diminutive morpheme on nouns. Further detailed linguistic resources are needed to determine the presence of such a morpheme in the language.",
+        "source": ""
+    },
+    "GB188-kach1280": {
+        "code": "?",
+        "comment": "There is not enough evidence available regarding productive augmentative marking on nouns in Southern Jinghpaw. The information is not sufficient to determine if such a morpheme exists.",
+        "source": ""
+    },
+    "GB192-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available about Southern Jinghpaw with respect to whether its noun class/gender system involves phonological properties as a factor in class assignment. Further research into linguistic studies on Southern Jinghpaw is needed to provide an accurate answer.",
+        "source": ""
+    },
+    "GB193-kach1280": {
+        "code": "IDK",
+        "comment": "The information about the order of adnominal property words and nouns in Southern Jinghpaw is not available in the provided data. Therefore, I cannot determine whether these property words precede or follow nouns, or if both orders are possible.",
+        "source": ""
+    },
+    "GB196-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw does not have a masculine/feminine distinction in second person independent pronouns.",
+        "source": ""
+    },
+    "GB197-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw does not have a masculine/feminine distinction in its first person independent pronouns.",
+        "source": ""
+    },
+    "GB198-kach1280": {
+        "code": "?",
+        "comment": "The information provided does not discuss a gender/noun class system in Southern Jinghpaw, and there is insufficient data to assess whether such a system exists or if adnominal numerals agree with it.",
+        "source": ""
+    },
+    "GB203-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient information to determine the order of the adnominal collective universal quantifier and the noun in Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB204-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient information about Southern Jinghpaw regarding the use of universal quantifiers to determine if there are differences in form or syntactic position for collective and distributive meanings.",
+        "source": ""
+    },
+    "GB250-kach1280": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Southern Jinghpaw. Without detailed data on whether a finite transitive verb is used with the possessor as the subject and the possessum as the object, it is not possible to determine if a 'habeo' construction is used.",
+        "source": ""
+    },
+    "GB252-kach1280": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Southern Jinghpaw, particularly regarding the use of a locative-coded possessor with an S-like possessum. Therefore, according to the procedure, the code is '?'.",
+        "source": ""
+    },
+    "GB253-kach1280": {
+        "code": "?",
+        "comment": "There is no information available on how predicative possession is expressed in Southern Jinghpaw, according to the given procedure. Therefore, the code is '?'.",
+        "source": ""
+    },
+    "GB254-kach1280": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Southern Jinghpaw, and whether there is a clause type where a possessum is coded as a subject and the possessor as a modifier.",
+        "source": ""
+    },
+    "GB256-kach1280": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Southern Jinghpaw, and therefore it is unclear if a comitative/conjunctional construction is used.",
+        "source": ""
+    },
+    "GB257-kach1280": {
+        "code": "?",
+        "comment": "There is limited data on Southern Jinghpaw regarding whether polar interrogation can be marked by intonation only. Further research into the language's intonational patterns is needed to make a definitive conclusion.",
+        "source": ""
+    },
+    "GB260-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient information available about Southern Jinghpaw to determine if polar interrogation can be indicated by a special word order alone.",
+        "source": ""
+    },
+    "GB262-kach1280": {
+        "code": "IDK",
+        "comment": "The information about the presence of a clause-initial polar interrogative particle in Southern Jinghpaw is not available in the provided data.",
+        "source": ""
+    },
+    "GB263-kach1280": {
+        "code": "?",
+        "comment": "The information regarding clause-final polar interrogative particles in Southern Jinghpaw is not well described or not available.",
+        "source": ""
+    },
+    "GB264-kach1280": {
+        "code": "?",
+        "comment": "The polar interrogation in Southern Jinghpaw is not well described, and there is insufficient information on whether there is a polar interrogative particle that occurs in the middle of the clause.",
+        "source": ""
+    },
+    "GB265-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the comparative construction in Southern Jinghpaw that involves a form meaning 'surpass/exceed'. Further research or linguistic analysis would be needed to determine this.",
+        "source": ""
+    },
+    "GB266-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about Southern Jinghpaw to determine whether its comparative constructions employ a marker of the standard that elsewhere has a locational or benefactive meaning.",
+        "source": ""
+    },
+    "GB270-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw does not have a dedicated comparative construction that involves two conjoined clauses. While it may be possible to conjoin clauses, this is not a dedicated mechanism for expressing comparative meaning.",
+        "source": ""
+    },
+    "GB273-kach1280": {
+        "code": "IDK",
+        "comment": "The specific details about comparative constructions in Southern Jinghpaw are not available in the provided information.",
+        "source": ""
+    },
+    "GB275-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information on Southern Jinghpaw regarding the presence of a bound comparative degree marker on the property word. Further research or specific linguistic resources on Southern Jinghpaw would be required to provide an accurate answer.",
+        "source": ""
+    },
+    "GB276-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the presence or absence of a non-bound comparative degree marker in Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB285-kach1280": {
+        "code": "?",
+        "comment": "The grammar does not treat polar interrogation at all.",
+        "source": ""
+    },
+    "GB286-kach1280": {
+        "code": "?",
+        "comment": "The information provided does not specify whether Southern Jinghpaw uses overt verbal morphology for polar interrogation. Without specific data or examples from the grammar of Southern Jinghpaw, it is not possible to determine if a polar question can be formed by adding a morpheme that is phonologically bound to the verb or by suppletion. Therefore, the appropriate code is '?'.",
+        "source": ""
+    },
+    "GB291-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available regarding whether Southern Jinghpaw uses tone to distinguish polar questions from declarative sentences.",
+        "source": ""
+    },
+    "GB296-kach1280": {
+        "code": "?",
+        "comment": "There is no specific information available on Southern Jinghpaw regarding the phonological or morphosyntactic characteristics of ideophones depicting imagery beyond sound. It is possible that the sources might have missed such ideophones or their specific properties in this language.",
+        "source": ""
+    },
+    "GB297-kach1280": {
+        "code": "?",
+        "comment": "There is not enough information provided about the Southern Jinghpaw language to determine if a V-not-V construction is used for polar interrogation.",
+        "source": ""
+    },
+    "GB298-kach1280": {
+        "code": "IDK",
+        "comment": "There is no available information on whether Southern Jinghpaw uses an inflecting word to mark standard negation.",
+        "source": ""
+    },
+    "GB299-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information or I do not have access to specific descriptive literature on negation in Southern Jinghpaw to determine if a non-inflecting phonologically free marker is used for standard negation.",
+        "source": ""
+    },
+    "GB300-kach1280": {
+        "code": "?",
+        "comment": "The verb paradigm for 'give' is not described in the provided data.",
+        "source": ""
+    },
+    "GB301-kach1280": {
+        "code": "?",
+        "comment": "Unable to determine from the available data whether there is an inclusory construction in Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB302-kach1280": {
+        "code": "?",
+        "comment": "There are no sources treating valency changing operations in Southern Jinghpaw or the treatment is very limited.",
+        "source": ""
+    },
+    "GB303-kach1280": {
+        "code": "?",
+        "comment": "There is limited information or no sources treating valency changing operations in Southern Jinghpaw, including antipassive constructions.",
+        "source": ""
+    },
+    "GB304-kach1280": {
+        "code": "?",
+        "comment": "There is not enough data available to determine if Southern Jinghpaw allows the overt expression of agents in passive clauses.",
+        "source": ""
+    },
+    "GB305-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available regarding the existence of a phonologically independent reflexive marker in Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB306-kach1280": {
+        "code": "?",
+        "comment": "Not enough information to determine if a phonologically independent reciprocal marker exists in Southern Jinghpaw that does not consist of two quantifiers.",
+        "source": ""
+    },
+    "GB309-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available regarding the specific temporal distinctions in the Southern Jinghpaw language to determine whether it marks multiple past or future tenses based on remoteness of time.",
+        "source": ""
+    },
+    "GB312-kach1280": {
+        "code": "?",
+        "comment": "The description of Southern Jinghpaw does not provide comprehensive detail on whether mood is marked on the verb, and it is not clear from available resources.",
+        "source": ""
+    },
+    "GB313-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine whether Southern Jinghpaw has special adnominal possessive pronouns that are not formed by a regular process. Further research on the possessive constructions of the language is necessary to provide an accurate answer.",
+        "source": ""
+    },
+    "GB314-kach1280": {
+        "code": "?",
+        "comment": "It is not clear from the available data whether augmentatives can be expressed with a shift in gender/noun class in Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB315-kach1280": {
+        "code": "?",
+        "comment": "It is not clear from the available data whether diminutives in Southern Jinghpaw involve a shift in noun class/gender or how productive such a pattern would be.",
+        "source": ""
+    },
+    "GB316-kach1280": {
+        "code": "IDK",
+        "comment": "I don't have access to specific grammatical descriptions of Southern Jinghpaw to determine if singular number is marked by a phonologically free element in the noun phrase. Therefore, I can't provide a definitive answer.",
+        "source": ""
+    },
+    "GB317-kach1280": {
+        "code": "0",
+        "comment": "The grammar does not describe dual number as marked productively with a phonologically free element, nor is there mention of such a marker. Therefore, based on the procedure, the appropriate code is 0.",
+        "source": ""
+    },
+    "GB318-kach1280": {
+        "code": "IDK",
+        "comment": "The information provided does not specify whether Southern Jinghpaw regularly marks plural number in the noun phrase with a free-standing element. Without access to specific grammatical descriptions or examples from the language, it is not possible to determine the answer. Further investigation into linguistic resources or descriptions of Southern Jinghpaw would be necessary to provide an accurate response.",
+        "source": ""
+    },
+    "GB319-kach1280": {
+        "code": "0",
+        "comment": "The grammar does not describe an overt free-standing marker of trial number occurring regularly in Southern Jinghpaw. Based on available information, it appears that trial number is not marked productively or is only expressed with a bound marker.",
+        "source": ""
+    },
+    "GB320-kach1280": {
+        "code": "0",
+        "comment": "The grammar does not describe an overt free-standing marker of paucal number. If number marking is mentioned, it is not productive or is only expressed with a bound marker.",
+        "source": ""
+    },
+    "GB321-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw does not have a large or open class of nouns with unpredictable noun class/gender. The language does not feature a system of nominal classification where markers vary based on the category of the noun in a way that is not semantically or phonologically predictable.",
+        "source": ""
+    },
+    "GB322-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine whether Southern Jinghpaw has grammatical markers for direct sensory evidence.",
+        "source": ""
+    },
+    "GB323-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the grammatical marking of indirect evidence (hearsay, inference, etc.) in Southern Jinghpaw. Further research or consultation with linguistic resources on this language is needed to determine if it uses grammatical markers for indirect evidentiality.",
+        "source": ""
+    },
+    "GB324-kach1280": {
+        "code": "?",
+        "comment": "The source does not describe content interrogative constructions in much detail, providing insufficient evidence to determine the presence of interrogative verbs in Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB325-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient information to determine whether Southern Jinghpaw has a count/mass distinction in interrogative quantifiers. The available data does not provide examples or glossing for both count and mass nouns using interrogative quantifiers.",
+        "source": ""
+    },
+    "GB326-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient evidence to identify the common, pragmatically unmarked content question construction(s) in Southern Jinghpaw. More detailed linguistic descriptions of the language's question formation strategies are needed to determine if nominal wh-constituents occur in situ or in a fixed position.",
+        "source": ""
+    },
+    "GB327-kach1280": {
+        "code": "?",
+        "comment": "The available information does not provide detailed treatment of relative clauses in Southern Jinghpaw, and it is unclear if postnominal relative clauses are possible or not.",
+        "source": ""
+    },
+    "GB328-kach1280": {
+        "code": "?",
+        "comment": "The source does not treat relative clauses in much detail and may have missed prenominal relative clauses. There is no conclusive information available about the position of relative clauses in Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB329-kach1280": {
+        "code": "?",
+        "comment": "The available information does not detail internally headed relative clauses in Southern Jinghpaw, and there may be a lack of comprehensive analysis on this feature. Without specific sources confirming or denying the existence of internally headed relative clauses, it is inconclusive.",
+        "source": ""
+    },
+    "GB330-kach1280": {
+        "code": "?",
+        "comment": "The information provided does not specify whether Southern Jinghpaw has correlative relative clauses or if relative clauses require an anaphoric pronoun in the main clause. Without specific examples or descriptions, the analysis remains inconclusive.",
+        "source": ""
+    },
+    "GB331-kach1280": {
+        "code": "?",
+        "comment": "The source does not treat relative clauses in much detail and may have missed non-adjacent relative clauses.",
+        "source": ""
+    },
+    "GB333-kach1280": {
+        "code": "?",
+        "comment": "There is insufficient data available to verify whether Southern Jinghpaw has a decimal numeral system, as there is no mention of any numeral system or numerals presented in the available sources.",
+        "source": ""
+    },
+    "GB334-kach1280": {
+        "code": "?",
+        "comment": "There is not enough data available in the provided context to determine if Southern Jinghpaw has a quinary numeral system. The question summary does not provide specific numeral data, and without access to a grammar or dictionary of the language, the presence of a quinary system cannot be verified.",
+        "source": ""
+    },
+    "GB335-kach1280": {
+        "code": "?",
+        "comment": "The available information does not provide enough data on numerals beyond 29 in Southern Jinghpaw to verify whether there is a vigesimal numeral system.",
+        "source": ""
+    },
+    "GB336-kach1280": {
+        "code": "?",
+        "comment": "There is not enough information provided to verify whether Southern Jinghpaw has a body-part tallying system.",
+        "source": ""
+    },
+    "GB400-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information on the deletion of person indexing in Southern Jinghpaw under specific voice, tense, aspect, mood, or negation conditions. Further details on the verbal morphology and argument cross-referencing are needed to determine if all person categories are neutralized.",
+        "source": ""
+    },
+    "GB401-kach1280": {
+        "code": "?",
+        "comment": "There is not enough information available to determine if Southern Jinghpaw has a class of patient-labile verbs. The search for relevant terms and examples did not yield conclusive information.",
+        "source": ""
+    },
+    "GB402-kach1280": {
+        "code": "?",
+        "comment": "The verb paradigm for 'see' in Southern Jinghpaw is not described in the available data.",
+        "source": ""
+    },
+    "GB403-kach1280": {
+        "code": "?",
+        "comment": "The verb paradigm for ‘come’ in Southern Jinghpaw is not described.",
+        "source": ""
+    },
+    "GB408-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available about the accusative alignment of flagging in Southern Jinghpaw. To determine this, one would need to analyze the grammar related to nominal morphology, argument marking, or basic clause structure, which is not provided in the available data.",
+        "source": ""
+    },
+    "GB409-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information provided to determine whether Southern Jinghpaw exhibits ergative alignment through flagging. Further reference to a comprehensive grammatical description or examples of argument marking in Southern Jinghpaw is required to answer this question accurately.",
+        "source": ""
+    },
+    "GB410-kach1280": {
+        "code": "IDK",
+        "comment": "There is not enough specific information about the Southern Jinghpaw language's argument marking system to determine if there is neutral alignment of flagging based on the given procedure.",
+        "source": ""
+    },
+    "GB415-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine if Southern Jinghpaw has politeness distinctions in second person pronoun forms.",
+        "source": ""
+    },
+    "GB421-kach1280": {
+        "code": "IDK",
+        "comment": "There is no specific information available regarding the position of complementizers in relation to complements of verbs of knowing and thinking in Southern Jinghpaw.",
+        "source": ""
+    },
+    "GB422-kach1280": {
+        "code": "IDK",
+        "comment": "The specific information regarding the position of complementizers in relation to complements of verbs of thinking and knowing in Southern Jinghpaw is not available in the provided data.",
+        "source": ""
+    },
+    "GB430-kach1280": {
+        "code": 0,
+        "comment": "Southern Jinghpaw does not use a prefix or proclitic on the possessor to mark adnominal possession. Possession is not indicated by a phonologically bound element preceding the possessor noun/pronoun.",
+        "source": ""
+    },
+    "GB431-kach1280": {
+        "code": 0,
+        "comment": "In Southern Jinghpaw, adnominal possession is not marked by a prefix or proclitic on the possessed noun.",
+        "source": ""
+    },
+    "GB432-kach1280": {
+        "code": 0,
+        "comment": "In Southern Jinghpaw, there is no adnominal possession construction where possession is marked by a suffix or enclitic on the possessor noun/pronoun.",
+        "source": ""
+    },
+    "GB433-kach1280": {
+        "code": 0,
+        "comment": "In Southern Jinghpaw, adnominal possession is not marked by a suffix or enclitic on the possessed noun. Possession is typically indicated through other means, such as possessive pronouns or constructions that do not involve phonologically bound elements.",
+        "source": ""
+    },
+    "GB519-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have access to specific grammatical descriptions or data on Southern Jinghpaw to determine whether mood can be marked by a non-inflecting phonologically free marker.",
+        "source": ""
+    },
+    "GB520-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have specific information on whether Southern Jinghpaw uses non-inflecting phonologically free markers to indicate aspect. Further research into detailed grammatical descriptions of the language would be needed to determine this.",
+        "source": ""
+    },
+    "GB521-kach1280": {
+        "code": "IDK",
+        "comment": "I do not have access to specific grammatical descriptions of Southern Jinghpaw to determine if tense is marked by a non-inflecting word. Further research or access to language resources would be needed to provide an accurate answer.",
+        "source": ""
+    },
+    "GB522-kach1280": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine whether the Southern Jinghpaw language allows the omission of the S or A argument in a pragmatically unmarked clause when the referent is inferable from context.",
+        "source": ""
+    }
+}

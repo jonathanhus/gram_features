@@ -1,0 +1,977 @@
+{
+    "GB020-ilok1237": {
+        "code": 0,
+        "comment": "The Iloko language does not have a specific morpheme that marks definiteness or specificity without conveying a spatial deictic meaning. It typically uses context or other grammatical structures to convey these meanings.",
+        "source": []
+    },
+    "GB021-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have indefinite articles. There is no evidence of indefinite/non-specific articles occurring with indefinite NPs, and the language lacks a grammaticalized form of an indefinite article.",
+        "source": []
+    },
+    "GB022-ilok1237": {
+        "code": "?",
+        "comment": "The status of articles in Iloko is not well described in terms of their alignment with GB020 or GB021, and demonstratives and articles are not fully detailed.",
+        "source": []
+    },
+    "GB023-ilok1237": {
+        "code": "?",
+        "comment": "Demonstratives and articles in Iloko are not well described, making it unclear whether postnominal articles exist.",
+        "source": []
+    },
+    "GB024-ilok1237": {
+        "code": 1,
+        "comment": "In Iloko, the numeral typically precedes the noun in noun phrases, following the Num-N order.",
+        "source": []
+    },
+    "GB025-ilok1237": {
+        "code": 2,
+        "comment": "In Iloko, the adnominal demonstrative typically follows the noun in the pragmatically unmarked order.",
+        "source": []
+    },
+    "GB026-ilok1237": {
+        "code": "0",
+        "comment": "There is no information indicating that adnominal property words can occur discontinuously in Iloko, and no example sentences were found to demonstrate this phenomenon. The grammar does not specifically state that this is possible.",
+        "source": []
+    },
+    "GB027-ilok1237": {
+        "code": 1,
+        "comment": "In Iloko, there is a distinction between comitative and nominal conjunction. The comitative is typically expressed with 'kadua' (meaning 'with'), while nominal conjunction uses 'ken' or sometimes 'ken kenni'. These are distinct elements used for different functions.",
+        "source": []
+    },
+    "GB028-ilok1237": {
+        "code": 1,
+        "comment": "Iloko has a distinction between inclusive and exclusive pronouns in the first person plural. The inclusive form includes the listener, while the exclusive form does not.",
+        "source": []
+    },
+    "GB030-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have gender distinctions in its third person pronouns or demonstratives. The language uses a set of pronouns that are not marked for gender or noun class.",
+        "source": []
+    },
+    "GB031-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a dual or unit augmented form for all person categories in its pronoun or person index system. The dual number is not grammatically marked across all person categories in Iloko.",
+        "source": []
+    },
+    "GB035-ilok1237": {
+        "code": 1,
+        "comment": "Iloko language has three primary adnominal demonstratives: 'daytoy' (this - near speaker), 'dayta' (that - near listener), and 'daydiay' (that over there - away from both speaker and listener), indicating three degrees of distance.",
+        "source": []
+    },
+    "GB036-ilok1237": {
+        "code": "IDK",
+        "comment": "The available data does not provide specific information on whether Iloko adnominal demonstratives make an elevation distinction.",
+        "source": []
+    },
+    "GB037-ilok1237": {
+        "code": "IDK",
+        "comment": "The provided information and my current data do not specify whether Iloko adnominal demonstratives make a visible-nonvisible distinction for items at the same relative distance.",
+        "source": []
+    },
+    "GB038-ilok1237": {
+        "code": "0",
+        "comment": "Iloko does not have a classifier system associated with demonstratives as there are no elements required with demonstratives that depend on the category of the noun in a way separate from gender/noun classes.",
+        "source": []
+    },
+    "GB039-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the pluralization of nouns is typically predictable, often using the plural marker 'dagiti' before the noun or 'da' as a suffix. This consistency means that the plural form can generally be predicted from the singular form, adhering to the pattern of pluralization in the language.",
+        "source": []
+    },
+    "GB041-ilok1237": {
+        "code": "?",
+        "comment": "There is limited information available on the suppletion for number in Iloko nouns, making it difficult to determine if there are four or more examples of strong suppletion.",
+        "source": []
+    },
+    "GB042-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a productive overt morphological singular marker on nouns. Singular number is typically unmarked, and there is no bound grammatical marker that regularly indicates singularity on nouns in the language.",
+        "source": []
+    },
+    "GB043-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a productive morphological dual marker on nouns. The language typically marks number through pluralization and does not have a specific dual number marker that is regularly applied across an open set of nouns. This aligns with the procedure indicating that dual number is not marked productively on nouns.",
+        "source": []
+    },
+    "GB044-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the marking of plural number typically occurs through non-bound elements or elsewhere in the noun phrase, rather than through a productive morphological plural marker directly on the noun itself. Plurality is often indicated through particles or other means, and there is no evidence of a bound plural marker that is productive and regular across an open set of nouns.",
+        "source": []
+    },
+    "GB046-ilok1237": {
+        "code": "?",
+        "comment": "Not mentioned",
+        "source": []
+    },
+    "GB047-ilok1237": {
+        "code": "?",
+        "comment": "The information provided does not mention whether Iloko has a productive morphological pattern for deriving action/state nouns from verbs. Without specific data on Iloko nominalization, I cannot determine if such a pattern exists.",
+        "source": []
+    },
+    "GB048-ilok1237": {
+        "code": "?",
+        "comment": "The information provided does not discuss nominalization in Iloko, so it is unclear if there is a productive morphological pattern for deriving an agent noun from a verb.",
+        "source": []
+    },
+    "GB049-ilok1237": {
+        "code": "0",
+        "comment": "Nominalization is discussed at some length, but object nominalization is not mentioned.",
+        "source": []
+    },
+    "GB051-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a noun class or gender system that includes masculine and feminine categories. It lacks a grammatical gender system where nouns are categorized based on gender distinctions such as masculine or feminine.",
+        "source": []
+    },
+    "GB052-ilok1237": {
+        "code": "0",
+        "comment": "Iloko does not have a noun class/gender system where shape is a factor in class assignment. The language primarily uses other means such as affixation for grammatical purposes and does not have a system of nominal classification that correlates with the shape of the referent.",
+        "source": []
+    },
+    "GB053-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a noun class/gender system where animacy is a factor in class assignment. There is no evidence of a nominal classification system that correlates with animacy in the language.",
+        "source": []
+    },
+    "GB054-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a noun class or gender system where plant status is a factor in class assignment. The language primarily uses a system of markers for other grammatical purposes that do not involve classification based on semantic categories such as plants.",
+        "source": []
+    },
+    "GB057-ilok1237": {
+        "code": 1,
+        "comment": "In Iloko, cardinal numerals are obligatorily accompanied by numeral classifiers that vary according to the semantic class of the noun. These classifiers are used for high countability nouns such as people, animals, and objects.",
+        "source": []
+    },
+    "GB058-ilok1237": {
+        "code": "IDK",
+        "comment": "Based on the given procedure and my current knowledge, I do not have sufficient information to determine if Iloko has possessive classifiers as described. Further research into Iloko's possessive constructions is needed to provide a definitive answer.",
+        "source": []
+    },
+    "GB059-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, there is no morpho-syntactic distinction between alienable and inalienable possession. Possessive constructions do not vary based on the semantic class of the possessum.",
+        "source": []
+    },
+    "GB065-ilok1237": {
+        "code": 2,
+        "comment": "In Iloko, the pragmatically unmarked order of adnominal possessor and possessed noun is PSD-PSR, where the possessed noun precedes the possessor.",
+        "source": []
+    },
+    "GB068-ilok1237": {
+        "code": 1,
+        "comment": "In Iloko, property words in predicative positions share some morphological features with verbs, such as affixes that indicate tense and aspect. This aligns with the criteria for coding 1, where property words receive similar marking as stative verbs.",
+        "source": []
+    },
+    "GB069-ilok1237": {
+        "code": 1,
+        "comment": "In Iloko, adnominal property words often share morphological treatment with verbs when used attributively. This includes instances where they are relativized, indicating that there is at least some shared marking between verbal and adnominal property words. Therefore, the correct code is 1.",
+        "source": []
+    },
+    "GB070-ilok1237": {
+        "code": 1,
+        "comment": "Iloko has morphological case marking for non-pronominal core arguments using bound markers such as affixes.",
+        "source": []
+    },
+    "GB071-ilok1237": {
+        "code": 0,
+        "comment": "not mentioned",
+        "source": []
+    },
+    "GB072-ilok1237": {
+        "code": 1,
+        "comment": "Iloko uses morphological case marking for oblique non-pronominal NPs. The language employs affixes and clitic particles to indicate various oblique roles such as locative and instrumental. These are phonologically bound to the nouns, thus fulfilling the criteria for oblique case marking.",
+        "source": []
+    },
+    "GB073-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, oblique case functions for personal pronouns are marked using phonologically free adpositions rather than bound morphological markers. There is no evidence of tone, affixation, or suppletion used for marking oblique cases on pronouns.",
+        "source": []
+    },
+    "GB074-ilok1237": {
+        "code": 1,
+        "comment": "Iloko has prepositions or prepositional proclitics, which may be phonologically bound.",
+        "source": []
+    },
+    "GB075-ilok1237": {
+        "code": 0,
+        "comment": "There is no evidence or mention of postpositions in Iloko as per available comprehensive grammar descriptions.",
+        "source": []
+    },
+    "GB079-ilok1237": {
+        "code": "1",
+        "comment": "Iloko verbs have prefixes or proclitics that mark tense, aspect, mood, and negation, which are not limited to S, A, or P core argument marking. Examples include prefixes for future tense and negation that are orthographically bound to the verb.",
+        "source": []
+    },
+    "GB080-ilok1237": {
+        "code": 1,
+        "comment": "Iloko verbs have suffixes or enclitics that mark tense, aspect, and mood beyond the core arguments A, S, or P. This analysis is based on linguistic studies of Iloko which show verbs being modified by bound morphemes to indicate TAM distinctions.",
+        "source": []
+    },
+    "GB081-ilok1237": {
+        "code": 1,
+        "comment": "Iloko (Ilocano) has productive infixation in verbs, particularly in the form of infixes that indicate aspectual and voice functions. The most common infix is '-in-', which is used to form the completive aspect of verbs. Another example is the infix '-um-', which is used to indicate actor focus or active voice. These infixes are productive and grammatically meaningful within the verbal domain in Iloko.",
+        "source": []
+    },
+    "GB082-ilok1237": {
+        "code": 1,
+        "comment": "Iloko has overt morphological marking for present tense on verbs through affixes or reduplication. The language also uses a non-past tense which is overtly marked.",
+        "source": []
+    },
+    "GB083-ilok1237": {
+        "code": 1,
+        "comment": "In Iloko, past tense can be marked on the verb using infixes or prefixes such as 'in-' or 'nag-'. These markers are dedicated to indicating past tense and form a phonological unit with the verb, thus fulfilling the criteria for overt morphological marking.",
+        "source": []
+    },
+    "GB084-ilok1237": {
+        "code": 1,
+        "comment": "Iloko uses morphological markers on verbs to indicate future tense, such as affixes.",
+        "source": []
+    },
+    "GB086-ilok1237": {
+        "code": 1,
+        "comment": "Iloko (Ilocano) has morphological distinctions for marking aspect on verbs. The language employs affixes to differentiate between perfective and imperfective aspects. For example, the infix '-in-' or prefix 'naka-' can be used for the perfective aspect, while the prefix 'ag-' or 'mang-' is used for the imperfective aspect, indicating that imperfective or perfective aspect can be marked on the verb.",
+        "source": []
+    },
+    "GB089-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the S argument is not indexed by a suffix or enclitic on the verb in the simple independent clause. Iloko typically uses separate pronouns or clitics for subject referencing rather than suffixes or enclitics attached to verbs.",
+        "source": []
+    },
+    "GB090-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the S argument is not indexed by a prefix or proclitic on the verb. Iloko typically uses other mechanisms such as separate pronouns or verb forms to indicate the subject, rather than a phonologically bound element that precedes the verb.",
+        "source": []
+    },
+    "GB091-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the A argument is not indexed by a suffix or enclitic on the verb in a simple independent clause. There is no phonologically bound element that indexes the A argument following the verb.",
+        "source": []
+    },
+    "GB092-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the A argument is not indexed by a prefix or proclitic on the verb. The language typically employs suffixation or other means for indicating subject agreement, not prefixes or proclitics.",
+        "source": []
+    },
+    "GB093-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the P argument is not indexed by a suffix or enclitic on the verb in a simple independent clause. Iloko uses a different system of affixes and pronouns to mark arguments, and there is no evidence of a phonologically bound element that indexes the P argument in the specified manner.",
+        "source": []
+    },
+    "GB094-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, there is no evidence of a phonologically bound element, such as a prefix or proclitic, that indexes the P argument on the verb in the simple independent clause. The language typically uses other means, such as separate pronouns or affixes that do not precede the verb, to indicate argument roles.",
+        "source": []
+    },
+    "GB095-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, there is no significant variation in the marking strategies of core participants based on TAM distinctions that would result in different alignment patterns or variations in the position of indexes. The language does not exhibit split ergativity or differential subject marking based on TAM. TAM marking does not lead to changes in the flagging or indexing of core arguments such as S, A, or P in Iloko.",
+        "source": []
+    },
+    "GB096-ilok1237": {
+        "code": "IDK",
+        "comment": "I don't have specific information on whether variations in marking strategies of core participants in Iloko are based on verb classes. Further research into Iloko's grammar would be required to answer this question accurately.",
+        "source": []
+    },
+    "GB098-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, there is no variation in the marking strategies of core participants based on person distinctions that result in different alignment patterns or changes in the position of indexes (such as prefixing vs. suffixing). The language does not exhibit person-based split or hierarchical alignment that affects the core marking strategies, thus the code is 0.",
+        "source": []
+    },
+    "GB099-ilok1237": {
+        "code": 0,
+        "comment": "There is limited information on verb suppletion for participant person in Iloko. Available resources do not indicate at least three verbs with suppletive allomorphs conditioned by the person of S, A, or P arguments.",
+        "source": []
+    },
+    "GB103-ilok1237": {
+        "code": 1,
+        "comment": "Iloko has a benefactive marker on verbs, which is used to indicate that an action has a beneficiary. This marker can be analyzed as part of the verbal morphology.",
+        "source": []
+    },
+    "GB104-ilok1237": {
+        "code": "?",
+        "comment": "There is not enough information available about Iloko's verbal morphology, indexing, or argument structure specifically regarding instrumental markers on verbs to determine if such a feature exists in the language.",
+        "source": []
+    },
+    "GB105-ilok1237": {
+        "code": "IDK",
+        "comment": "I do not have specific information on the argument marking patterns for ditransitive constructions in Iloko. Further research into a grammar resource or linguistic study on Iloko would be necessary to determine whether the recipient in a ditransitive construction can be marked like the transitive patient.",
+        "source": []
+    },
+    "GB107-ilok1237": {
+        "code": "IDK",
+        "comment": "The provided information does not contain specific details about how standard negation is marked in Iloko. Without access to additional descriptive literature or linguistic resources on Iloko's negation system, I am unable to determine whether standard negation is marked by an affix, clitic, or modification of the verb.",
+        "source": []
+    },
+    "GB108-ilok1237": {
+        "code": 1,
+        "comment": "Iloko verbs can be marked with direction or locative affixes. For example, Iloko uses affixes such as 'ag-' for verbs that indicate movement or direction, which are phonologically bound markers.",
+        "source": []
+    },
+    "GB109-ilok1237": {
+        "code": "0",
+        "comment": "Iloko does not exhibit strong suppletion for verbs based on participant number. There is no indication of different verb stems being used depending on the number of a core participant. Therefore, the language is coded as 0 for this feature.",
+        "source": []
+    },
+    "GB110-ilok1237": {
+        "code": "?",
+        "comment": "There is insufficient description of Iloko verb suppletion for tense or aspect to determine whether there are three or more examples of strong suppletion. Therefore, it is unclear if the language uses suppletive stems for tense or aspect.",
+        "source": []
+    },
+    "GB111-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the differences in verb forms related to tense, aspect, mood, or voice are typically due to phonological changes rather than non-phonological allomorphy. There are no distinct conjugation classes based on lexically assigned categories; therefore, the finite verbs are not inflected differently depending on the verb used beyond morphophonological alternations.",
+        "source": []
+    },
+    "GB113-ilok1237": {
+        "code": "1",
+        "comment": "Iloko uses affixes such as 'i-' and '-an' to transitivize intransitive verbs by adding an object or another role to the verb, and these affixes are phonologically bound to the verb.",
+        "source": []
+    },
+    "GB114-ilok1237": {
+        "code": "?",
+        "comment": "There is not enough data or analysis in the available sources to determine whether there is a phonologically bound reflexive marker on verbs in Iloko or whether it is productive.",
+        "source": []
+    },
+    "GB115-ilok1237": {
+        "code": 0,
+        "comment": "not mentioned",
+        "source": []
+    },
+    "GB116-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a system of verbal classification that classifies the shape, size, or consistency of absolutive arguments using incorporated nouns, verbal affixes, or suppletive verb stems. The language primarily uses affixes for tense, aspect, and mood, rather than for classifying arguments in terms of their physical characteristics.",
+        "source": []
+    },
+    "GB117-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, equative sentences with predicate nominals typically do not use a copula, resulting in a 'zero copula' construction.",
+        "source": []
+    },
+    "GB118-ilok1237": {
+        "code": 0,
+        "comment": "No descriptions or examples of serial verb constructions are found in the available comprehensive grammars of Iloko.",
+        "source": []
+    },
+    "GB119-ilok1237": {
+        "code": 0,
+        "comment": "Based on the available information, there is no evidence of inflecting words such as auxiliary verbs marking mood in Iloko. Therefore, the code is 0.",
+        "source": []
+    },
+    "GB120-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, aspect is typically marked through affixes rather than inflecting auxiliary verbs. There is no clear evidence of inflecting words or auxiliary verbs that express aspect.",
+        "source": []
+    },
+    "GB121-ilok1237": {
+        "code": "0",
+        "comment": "In Iloko, tense is typically marked by verbal affixes rather than by inflecting auxiliary verbs or similar elements. There are no inflecting words that clearly express tense as described in the procedure.",
+        "source": []
+    },
+    "GB122-ilok1237": {
+        "code": "?",
+        "comment": "It is unclear how productive verb compounding is in Iloko based on the information provided. Further information about the specific processes in Iloko would be required to determine if there is a regular process for verb compounding.",
+        "source": []
+    },
+    "GB123-ilok1237": {
+        "code": 0,
+        "comment": "There is no specific mention or evidence of light-verb constructions in Iloko where verbs with a general meaning combine with non-verbal elements to produce new verbal predicates. Instances found can be analyzed as serial verb constructions or verbal compounds.",
+        "source": []
+    },
+    "GB124-ilok1237": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine if noun incorporation is a productive intransitivizing process in Iloko. More specific linguistic data on Iloko's syntactic structures and noun incorporation is necessary to provide an accurate answer.",
+        "source": []
+    },
+    "GB126-ilok1237": {
+        "code": 1,
+        "comment": "In Iloko, there is an existential verb 'adda' which is used for expressing existence, different from the equative or attributive constructions. The equative or attributive constructions typically use forms related to 'isu', which is distinct from 'adda'.",
+        "source": []
+    },
+    "GB127-ilok1237": {
+        "code": "IDK",
+        "comment": "There is insufficient specific information available on the use of posture verbs in locative predication in Iloko to determine whether different posture verbs are used obligatorily depending on an inanimate locatum's shape or position.",
+        "source": []
+    },
+    "GB129-ilok1237": {
+        "code": 0,
+        "comment": "There is no mention in the available data that Iloko has a notably small number of verb roots or that verbs form a restricted word class. Iloko typically does not exhibit the feature of having fewer than 100 verb roots, and its verbs are not described as a closed class with few members.",
+        "source": []
+    },
+    "GB130-ilok1237": {
+        "code": "?",
+        "comment": "The pragmatically unmarked order of S and V in intransitive clauses for Iloko is unclear based on the available information. More specific examples or data on full NP subjects in intransitive clauses are needed to determine if SV or VS is the unmarked order.",
+        "source": []
+    },
+    "GB131-ilok1237": {
+        "code": "0",
+        "comment": "Iloko typically has a fixed word order for transitive clauses that is not verb-initial. The unmarked word order is SVO, where the verb does not come first.",
+        "source": []
+    },
+    "GB132-ilok1237": {
+        "code": "?",
+        "comment": "The pragmatically unmarked constituent order for Iloko in transitive clauses is not specified in the provided information. Without specific examples or descriptions, it cannot be determined if verb-medial order is unmarked for this language.",
+        "source": []
+    },
+    "GB133-ilok1237": {
+        "code": 0,
+        "comment": "The pragmatically unmarked constituent order for Iloko is not verb-final. Iloko typically follows a VSO (Verb-Subject-Object) order, which is not consistent with SOV or OSV structures. Therefore, it does not meet the criteria for a verb-final order being pragmatically unmarked in transitive clauses.",
+        "source": []
+    },
+    "GB134-ilok1237": {
+        "code": "?",
+        "comment": "There is insufficient information about the word order in subordinate clauses for Iloko based on the available data. The grammar may indicate flexible word order, but specific examples or statements about subordinate clauses are not provided.",
+        "source": []
+    },
+    "GB135-ilok1237": {
+        "code": "?",
+        "comment": "There is insufficient information available on the position of clausal objects in Iloko to determine whether they occur in the same position as nominal objects. The descriptive work or examples needed to discern this feature are not explicitly found in the available resources.",
+        "source": []
+    },
+    "GB136-ilok1237": {
+        "code": "1",
+        "comment": "In Iloko, the order of core arguments (S, A, and P) is typically fixed. The language follows a relatively rigid verb-initial order (VSO/VOS) where the verb usually comes first, followed by the subject and object. Permutations of this order often change the propositional content or require additional marking (such as topic markers or focus particles) to maintain the intended meaning. Therefore, the order is considered fixed.",
+        "source": []
+    },
+    "GB137-ilok1237": {
+        "code": "0",
+        "comment": "In Iloko, standard negation is typically marked with the prefix 'di-' or 'saan', which are not clause-final markers. There is no evidence in the literature that negation is marked clause-finally in standard negation constructions for dynamic verbal predicates in declarative mood.",
+        "source": []
+    },
+    "GB138-ilok1237": {
+        "code": "0",
+        "comment": "In Iloko, standard negation is typically marked by the word 'saan' or 'di', which do not occur in a clause-initial position. They usually precede the verb or are placed before the main predicate in a sentence. There is no indication in the available literature that these markers are ever clause-initial when negating dynamic verbal predicates in declarative mood. Thus, based on the procedure, the code is 0.",
+        "source": []
+    },
+    "GB139-ilok1237": {
+        "code": "?",
+        "comment": "There is no specific source available that describes negative imperatives (or prohibitives) in Iloko, making it unclear whether there are differences in the construction between declarative and imperative negation.",
+        "source": []
+    },
+    "GB140-ilok1237": {
+        "code": "?",
+        "comment": "There is not enough specific information available about the negation of locational, existential, and nominal predication in Iloko to determine if they are marked by the same negator as verbal negation. Without access to detailed descriptions of each type of predication, it is not possible to conclude whether they use the same negator.",
+        "source": []
+    },
+    "GB146-ilok1237": {
+        "code": "?",
+        "comment": "There is not enough data available on the specific morphosyntactic distinction between controlled and uncontrolled predicates in Iloko, based on the provided procedure.",
+        "source": []
+    },
+    "GB147-ilok1237": {
+        "code": 1,
+        "comment": "Iloko (or Ilocano) uses affixes such as -en, -an, and others to indicate passive voice, which are phonologically bound to the verb. These markers are orthographically and morphologically attached to the verb root, marking passivization.",
+        "source": []
+    },
+    "GB148-ilok1237": {
+        "code": "0",
+        "comment": "There is no evidence or mention of a phonologically bound antipassive marker in Iloko, and sources do not treat antipassive constructions in depth.",
+        "source": []
+    },
+    "GB149-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a morphologically marked inverse system on verbs. There are no markers indicating that the patient outranks the agent on an animacy or person hierarchy. The language primarily uses a nominative-accusative alignment system and does not employ inverse marking.",
+        "source": []
+    },
+    "GB150-ilok1237": {
+        "code": "?",
+        "comment": "I am uncertain whether Iloko exhibits clause chaining or if examples involving series of verbs represent another construction such as serial verbs or verb compounding. Further examination of specific examples in the language is required to determine if clause chaining is present.",
+        "source": []
+    },
+    "GB151-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a dedicated overt verb marker for signaling switch reference or coreference/non-coreference between the subject of one clause and an argument of an adjacent clause. The language does not exhibit morphological alternations in the verbal domain specifically for this purpose.",
+        "source": []
+    },
+    "GB152-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, simultaneous and sequential actions are typically expressed through the use of aspect or adverbial elements rather than a dedicated marker on the verb itself. Therefore, there is no overt marker specifically dedicated to distinguishing between simultaneous and sequential clauses.",
+        "source": []
+    },
+    "GB155-ilok1237": {
+        "code": 1,
+        "comment": "Iloko forms causatives using affixes which are phonologically bound morphemes. This analysis is based on the presence of bound morphemes that mark causatives in the language.",
+        "source": []
+    },
+    "GB156-ilok1237": {
+        "code": "?",
+        "comment": "There is limited or no information available about causative constructions involving a 'say' element in Iloko. Further research or sources are needed to provide a conclusive analysis.",
+        "source": []
+    },
+    "GB158-ilok1237": {
+        "code": 1,
+        "comment": "Iloko exhibits productive verbal reduplication, where verbs can undergo full or partial repetition to indicate various grammatical or semantic changes. This aligns with criteria 1 and 2 of the procedure.",
+        "source": []
+    },
+    "GB159-ilok1237": {
+        "code": "?",
+        "comment": "The information provided does not specify whether Iloko has productive reduplication of nouns or not. Without specific sources or examples indicating productive reduplication or its absence, it's unclear how nouns are treated in Iloko regarding reduplication.",
+        "source": []
+    },
+    "GB160-ilok1237": {
+        "code": "IDK",
+        "comment": "There is insufficient information available about productive reduplication of non-verbal and non-nominal elements in the Iloko language to make a determination based on the given criteria.",
+        "source": []
+    },
+    "GB165-ilok1237": {
+        "code": 0,
+        "comment": "The Iloko language does not have a productive morphological trial marker on nouns. There is no evidence of a bound marker for trial number that occurs regularly on an open set of nouns in Iloko. Number marking is typically expressed through other means, such as numerals, and does not include a specific trial marker.",
+        "source": []
+    },
+    "GB166-ilok1237": {
+        "code": 0,
+        "comment": "The Iloko language does not have a productive morphological paucal marker on nouns. There is no evidence or description of a bound paucal marker in the available resources, and it is not marked productively.",
+        "source": []
+    },
+    "GB167-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, there is no special pronominal form that distinctly marks logophoric reference. The same pronouns are used for third person references in reported speech as for other contexts, thus not meeting the criteria for a logophoric pronoun.",
+        "source": []
+    },
+    "GB170-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a gender or noun class system where adjectives show agreement with nouns based on gender or noun classes.",
+        "source": []
+    },
+    "GB171-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a noun class/gender system where demonstratives agree with the noun. The language lacks gender-based agreement or noun class distinctions.",
+        "source": []
+    },
+    "GB172-ilok1237": {
+        "code": "IDK",
+        "comment": "Iloko (Ilocano) does not prominently feature noun class or gender agreement as in many other languages with gender systems. However, without specific examples or comprehensive data on Iloko's definite and indefinite articles showing agreement, it's difficult to definitively apply the coding procedure. Further research or examples would be necessary to confirm.",
+        "source": []
+    },
+    "GB177-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, verbal morphology primarily indexes person and number without distinguishing animacy in a way that is unrelated to noun class or gender systems. The same forms are used for both animate and inanimate arguments, and there is no unique animacy indexing system separate from person/number marking.",
+        "source": []
+    },
+    "GB184-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, there is no evidence that adnominal property words agree in number with the noun they modify. Thus, the answer is coded as 0 according to the procedure.",
+        "source": []
+    },
+    "GB185-ilok1237": {
+        "code": 1,
+        "comment": "In Iloko, adnominal demonstratives can agree with the noun in number, as there are distinct forms for singular and plural demonstratives.",
+        "source": []
+    },
+    "GB186-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, articles do not change form to agree with the noun in number. The articles used do not vary based on whether the noun is singular or plural.",
+        "source": []
+    },
+    "GB187-ilok1237": {
+        "code": "?",
+        "comment": "The available sources do not provide comprehensive information about productive diminutive marking in Iloko, specifically about a phonologically bound morpheme that denotes small size, apart from noun class markers. Further research may be needed to confirm this feature.",
+        "source": []
+    },
+    "GB188-ilok1237": {
+        "code": "0",
+        "comment": "Iloko does not have a morpheme that is phonologically bound to nouns to denote a large version of the noun. Augmentatives are not marked by such morphemes, and there is no evidence supporting the existence of productive augmentative marking beyond nominal classification or gender shifts.",
+        "source": []
+    },
+    "GB192-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a noun class/gender system where the assignment of nouns to classes/genders patterns according to phonological properties of the noun.",
+        "source": []
+    },
+    "GB193-ilok1237": {
+        "code": 2,
+        "comment": "In Iloko, adnominal property words typically follow the nouns they modify, thus the order is N-ANM.",
+        "source": []
+    },
+    "GB196-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a masculine/feminine distinction in its second person independent pronouns. The pronouns are gender-neutral and do not contrast based on gender.",
+        "source": []
+    },
+    "GB197-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a masculine/feminine distinction in its first person independent pronouns. The pronouns do not change form based on the gender of the referent.",
+        "source": []
+    },
+    "GB198-ilok1237": {
+        "code": "0",
+        "comment": "Iloko does not have a gender/noun class system that affects adnominal numerals. The language does not exhibit agreement between adnominal numerals and noun classes or gender.",
+        "source": []
+    },
+    "GB203-ilok1237": {
+        "code": "?",
+        "comment": "There is insufficient information to make a determination about the order of the collective universal quantifier and the noun in Iloko.",
+        "source": []
+    },
+    "GB204-ilok1237": {
+        "code": "?",
+        "comment": "There is insufficient information available about Iloko regarding the use of universal quantifiers, specifically whether different forms or syntactic positions are used for collective and distributive quantification.",
+        "source": []
+    },
+    "GB250-ilok1237": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Iloko, and therefore it is unclear if a transitive 'habeo' verb is used.",
+        "source": []
+    },
+    "GB252-ilok1237": {
+        "code": "?",
+        "comment": "There is no clear information on how predicative possession is expressed in Iloko with an S-like possessum and a locative-coded possessor.",
+        "source": []
+    },
+    "GB253-ilok1237": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Iloko with a dative-coded possessor or using constructions where the possessum behaves like a subject with the possessor coded similarly to a recipient or with elements meaning 'to/for'. Therefore, the code is '?' as per the procedure.",
+        "source": []
+    },
+    "GB254-ilok1237": {
+        "code": "?",
+        "comment": "There is no specific information available about how predicative possession is expressed in Iloko, and whether it uses a construction where the possessum is coded as a subject and the possessor is coded as a modifier of the subject.",
+        "source": []
+    },
+    "GB256-ilok1237": {
+        "code": "?",
+        "comment": "There is no specific information available on how predicative possession is expressed in Iloko using comitative/conjunctional construction. Further research into Iloko grammar resources would be needed to determine if such a construction exists.",
+        "source": []
+    },
+    "GB257-ilok1237": {
+        "code": "?",
+        "comment": "There is limited data available on whether Iloko uses intonation as the sole marker for polar interrogation. Further research into Iloko's interrogative structures would be needed to provide a definitive answer.",
+        "source": []
+    },
+    "GB260-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, polar questions are typically formed using a question particle or marker, such as 'kadi', rather than solely relying on a change in word order.",
+        "source": []
+    },
+    "GB262-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not use a dedicated clause-initial polar interrogative particle to mark polar questions. Instead, it uses intonation or other strategies to form polar questions.",
+        "source": []
+    },
+    "GB263-ilok1237": {
+        "code": "?",
+        "comment": "The information about clause-final polar interrogative particles in Iloko is not well-documented or described, making it difficult to determine the presence or absence of such particles in polar questions.",
+        "source": []
+    },
+    "GB264-ilok1237": {
+        "code": "?",
+        "comment": "The documentation does not provide sufficient information about the use of polar interrogative particles in Iloko, particularly regarding their position within the clause.",
+        "source": []
+    },
+    "GB265-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not use a 'surpass/exceed' form in its comparative constructions. The language typically uses other constructions for comparison, such as using markers or words that mean 'more than' instead of a verb that also means 'surpass' or 'exceed' in other contexts.",
+        "source": []
+    },
+    "GB266-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the comparative construction does not use a marker for the standard of comparison that has a locational or benefactive meaning in other contexts.",
+        "source": []
+    },
+    "GB270-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a dedicated comparative construction involving two conjoined clauses. While it is possible to conjoin clauses, this structure is not used specifically for expressing comparatives.",
+        "source": []
+    },
+    "GB273-ilok1237": {
+        "code": 0,
+        "comment": "Iloko typically uses locational comparisons rather than having a dedicated marker without a locational or surpass/exceed meaning.",
+        "source": []
+    },
+    "GB275-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, comparative constructions typically do not use a bound comparative degree marker on the property word. Comparatives are often expressed using separate words such as 'lawan' meaning 'than' or 'mas' meaning 'more,' which are not phonologically bound to the adjective or property word.",
+        "source": []
+    },
+    "GB276-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, comparative constructions typically do not use a phonologically free degree marker that modifies the property word. The language instead often relies on context or uses bound forms for expressing superiority in comparatives.",
+        "source": []
+    },
+    "GB285-ilok1237": {
+        "code": "0",
+        "comment": "The grammar mentions other polar interrogative constructions, but does not contain a discussion of interrogative verbal morphology and interrogative particles in Iloko.",
+        "source": []
+    },
+    "GB286-ilok1237": {
+        "code": "?",
+        "comment": "The provided information does not include specific details about whether Iloko uses overt verbal morphology exclusively for polar interrogation. Therefore, following the procedure, the appropriate response is code '?', indicating that the grammar does not treat polar interrogation at all.",
+        "source": []
+    },
+    "GB291-ilok1237": {
+        "code": "IDK",
+        "comment": "There is insufficient information available to determine if Iloko uses tone to mark polar interrogation.",
+        "source": []
+    },
+    "GB296-ilok1237": {
+        "code": 1,
+        "comment": "Iloko has a well-defined class of ideophones with specific phonological and morphosyntactic characteristics. These ideophones include those depicting imagery beyond sound, such as movements or emotions, and can have unique phonological features and flexible word order not typical of other word classes.",
+        "source": []
+    },
+    "GB297-ilok1237": {
+        "code": "?",
+        "comment": "There is not enough information on how questions are formed in Iloko to determine if a V-not-V construction is used for polar interrogation.",
+        "source": []
+    },
+    "GB298-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, standard negation is typically marked by the word 'saan' or 'di', which are not inflecting auxiliary verbs. These negation markers do not change form based on tense, aspect, mood, or agreement with the subject. Therefore, Iloko does not use an inflecting word to mark standard negation.",
+        "source": []
+    },
+    "GB299-ilok1237": {
+        "code": 1,
+        "comment": "In Iloko, standard negation is marked by the word 'saan' or 'di', which are non-inflecting particles used to negate verbs. These particles do not change form based on tense, aspect, mood, or person, thus meeting the criteria for a non-inflecting word marking negation.",
+        "source": []
+    },
+    "GB300-ilok1237": {
+        "code": "?",
+        "comment": "The verb paradigm for 'give' in Iloko is not described in the provided information.",
+        "source": []
+    },
+    "GB301-ilok1237": {
+        "code": "?",
+        "comment": "The available data does not provide sufficient information to determine whether Iloko has inclusory constructions as defined. Further analysis of grammatical resources or examples is needed.",
+        "source": []
+    },
+    "GB302-ilok1237": {
+        "code": 0,
+        "comment": "Iloko uses verb-coded passives marked on the verb itself, typically through affixes, and does not employ a phonologically free passive marker like a particle or auxiliary.",
+        "source": []
+    },
+    "GB303-ilok1237": {
+        "code": "0",
+        "comment": "Iloko does not have a phonologically free antipassive marker, and sources mention other means of valency changing operations but not antipassive constructions marked with a particle or auxiliary.",
+        "source": []
+    },
+    "GB304-ilok1237": {
+        "code": "?",
+        "comment": "There is insufficient data to determine if Iloko allows the agent to be overtly expressed in a passive clause, as there's no clear information or examples provided.",
+        "source": []
+    },
+    "GB305-ilok1237": {
+        "code": 0,
+        "comment": "not mentioned",
+        "source": []
+    },
+    "GB306-ilok1237": {
+        "code": "0",
+        "comment": "not mentioned",
+        "source": []
+    },
+    "GB309-ilok1237": {
+        "code": 0,
+        "comment": "Iloko has a single past tense category and a single future tense category, with no evidence of distinctions based on remoteness of time.",
+        "source": []
+    },
+    "GB312-ilok1237": {
+        "code": 1,
+        "comment": "Iloko exhibits morphological marking on the verb indicating mood, using affixes to indicate distinctions such as realis and irrealis moods.",
+        "source": []
+    },
+    "GB313-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the possessive pronouns are not independent suppletive forms but are formed regularly by adding possessive markers to the pronominal forms or using constructions similar to other possessive constructions. Therefore, there are no special adnominal possessive pronouns that meet the criteria for a code of 1.",
+        "source": []
+    },
+    "GB314-ilok1237": {
+        "code": "0",
+        "comment": "Iloko does not have a gender/noun class system, nor is there evidence of a productive pattern of shifting noun classes for augmentative meaning. The language typically uses other morphological or syntactic means to express augmentative meanings.",
+        "source": []
+    },
+    "GB315-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have gender or noun classes, and diminutive meaning is not expressed through a shift in these categories.",
+        "source": []
+    },
+    "GB316-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, singular number is typically not marked by a phonologically free element. Number marking, if present, is more commonly associated with other grammatical features or is expressed through context rather than a distinct free-standing marker for singular nouns.",
+        "source": []
+    },
+    "GB317-ilok1237": {
+        "code": "0",
+        "comment": "Iloko does not have a regularly marked dual number with a phonologically free element in noun phrases. Number marking in Iloko is generally not productive or regular for dual, and it is primarily expressed through other means such as pluralization without a distinct dual marker.",
+        "source": []
+    },
+    "GB318-ilok1237": {
+        "code": 1,
+        "comment": "Iloko has a free-standing plural marker 'dagiti' that is regularly used with nouns to indicate plurality.",
+        "source": []
+    },
+    "GB319-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a regular free-standing marker for trial number in the noun phrase. Number marking, if present, is typically done through other means, and trial number is not a distinct grammatical category in Iloko.",
+        "source": []
+    },
+    "GB320-ilok1237": {
+        "code": "0",
+        "comment": "Iloko does not have a productive free-standing marker for paucal number in the noun phrase based on available linguistic descriptions.",
+        "source": []
+    },
+    "GB321-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have a noun class/gender system with a large or open class of nouns whose assignment is not predictable based on phonology or semantics. The language generally lacks a system of nominal classification with arbitrary assignments, and any exceptions to semantic or phonological predictability do not constitute a large or open class.",
+        "source": []
+    },
+    "GB322-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not have grammatical markers specifically dedicated to expressing direct sensory evidence. Direct evidence is typically expressed through lexical verbs or adverbs rather than affixes or particles.",
+        "source": []
+    },
+    "GB323-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not use grammatical markers such as affixes or particles to indicate indirect evidence like hearsay or inference. Expressions of indirect evidence are typically conveyed through adverbs or other lexical means, rather than through dedicated grammatical markers.",
+        "source": []
+    },
+    "GB324-ilok1237": {
+        "code": "?",
+        "comment": "The available data does not provide sufficient detailed information about content interrogative constructions in Iloko, nor does it mention the presence of interrogative verb roots with wh- meanings. More comprehensive sources or linguistic descriptions are needed to determine if such verbs exist in Iloko.",
+        "source": []
+    },
+    "GB325-ilok1237": {
+        "code": "?",
+        "comment": "There is insufficient information available to definitively determine whether Iloko has a count/mass distinction in interrogative quantifiers. No specific examples or descriptions of interrogative quantifiers used for both count and mass nouns in Iloko were provided.",
+        "source": []
+    },
+    "GB326-ilok1237": {
+        "code": "1",
+        "comment": "Iloko typically allows nominal wh-constituents to occur in situ, maintaining the same position as non-interrogative NPs in declarative sentences. This in-situ occurrence is common and pragmatically unmarked in Iloko.",
+        "source": []
+    },
+    "GB327-ilok1237": {
+        "code": 1,
+        "comment": "Iloko, also known as Ilocano, allows for postnominal relative clauses. In Iloko, relative clauses can follow the noun they modify, as seen in certain sentence structures where the relative clause immediately follows the noun without the use of an anaphoric pronoun in the main clause.",
+        "source": []
+    },
+    "GB328-ilok1237": {
+        "code": 0,
+        "comment": "Iloko relative clauses are typically postnominal. Sources describe postnominal relative clauses and do not mention prenominal relative clauses in Iloko.",
+        "source": []
+    },
+    "GB329-ilok1237": {
+        "code": "?",
+        "comment": "The available information does not conclusively address whether Iloko allows for internally-headed relative clauses. There is no detailed discussion or examples specifically highlighting this feature in the sources reviewed.",
+        "source": []
+    },
+    "GB330-ilok1237": {
+        "code": "?",
+        "comment": "The available information does not provide a comprehensive analysis specifically discussing correlative relative clauses or the presence of anaphoric pronouns in the main clause in Iloko. Without detailed sources confirming or denying these structures, the analysis remains inconclusive.",
+        "source": []
+    },
+    "GB331-ilok1237": {
+        "code": "?",
+        "comment": "The source does not provide detailed information on whether Iloko allows non-adjacent relative clauses, so it is unclear if non-adjacent relative clauses are present in the language.",
+        "source": []
+    },
+    "GB333-ilok1237": {
+        "code": 1,
+        "comment": "Iloko has a decimal numeral system. Numerals are constructed as multiples of ten, such as 30 being represented as 'tallo a pulo' (3x10), 40 as 'uppat a pulo' (4x10), and so on. This indicates a decimal base system, verified by the numeral construction in Iloko grammars and dictionaries.",
+        "source": []
+    },
+    "GB334-ilok1237": {
+        "code": "0",
+        "comment": "Iloko primarily uses a decimal numeral system, and there is no evidence of a quinary system where numbers above 5 are formed with 5 as a base. Numerals such as 6, 7, 8, and 9 do not follow a pattern of being expressed as 5+1, 5+2, etc. Therefore, there is no synchronic evidence for a quinary numeral system in Iloko.",
+        "source": []
+    },
+    "GB335-ilok1237": {
+        "code": "?",
+        "comment": "The source does not contain enough data on Iloko numerals beyond 29 to verify the presence of a vigesimal numeral system.",
+        "source": []
+    },
+    "GB336-ilok1237": {
+        "code": "?",
+        "comment": "There is not enough information provided to determine whether the Iloko language has a body-part tallying system. The available sources do not specify the numerals or any body-part tallying specifics for Iloko.",
+        "source": []
+    },
+    "GB400-ilok1237": {
+        "code": "IDK",
+        "comment": "I do not have specific information on Iloko verbal morphology regarding the neutralization of person categories in certain TAM, voice, or negation contexts.",
+        "source": []
+    },
+    "GB401-ilok1237": {
+        "code": "?",
+        "comment": "There is insufficient information provided to determine the existence of a class of patient-labile verbs in Iloko. The procedure requires finding specific examples or mentions of lability, ambitransitivity, or semitransitivity, which are not present in the given data.",
+        "source": []
+    },
+    "GB402-ilok1237": {
+        "code": 0,
+        "comment": "The Iloko verb for 'see' does not have suppletive forms, meaning it does not change in a way that is unrelated to its root form across different tenses or aspects.",
+        "source": []
+    },
+    "GB403-ilok1237": {
+        "code": "1",
+        "comment": "In Iloko, the verb for 'come' is 'umay' and it has a suppletive form 'intayon' for certain tenses, indicating strong suppletion.",
+        "source": []
+    },
+    "GB408-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, there is no special accusative flagging for P arguments that distinguishes them from S arguments. Typically, Iloko uses a nominative-accusative alignment where S and P are marked identically, often with zero marking. Therefore, the language does not exhibit accusative alignment in terms of flagging.",
+        "source": []
+    },
+    "GB409-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, there is no ergative alignment of flagging. Both S and A arguments are flagged identically, typically using the same nominative case markers, indicating a nominative-accusative alignment rather than an ergative one.",
+        "source": []
+    },
+    "GB410-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, the arguments S, A, and P are not flagged identically. There is a distinction in marking between these roles, specifically with the use of focus and non-focus markers, which results in different flagging for the A and P arguments compared to S.",
+        "source": []
+    },
+    "GB415-ilok1237": {
+        "code": 1,
+        "comment": "Iloko has a politeness distinction in the second person forms. The language uses different pronouns based on the level of respect or familiarity with the addressee. For example, 'sika' is used for informal situations, and 'dakayo' is used for more formal or respectful contexts, especially when addressing older individuals or those of higher status.",
+        "source": []
+    },
+    "GB421-ilok1237": {
+        "code": "IDK",
+        "comment": "There is no specific information available regarding the position of complementizers in Iloko for verbs of thinking and knowing based on the provided data and my training. Further investigation into Iloko grammar resources would be required to determine the correct coding.",
+        "source": []
+    },
+    "GB422-ilok1237": {
+        "code": "IDK",
+        "comment": "There is no specific information available on the position of complementizers for verbs of thinking and knowing in Iloko.",
+        "source": []
+    },
+    "GB430-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, possession is typically marked with markers that follow the possessor, rather than with prefixes or proclitics. Therefore, adnominal possession is not marked by a prefix on the possessor.",
+        "source": []
+    },
+    "GB431-ilok1237": {
+        "code": 0,
+        "comment": "Iloko does not use a prefix or proclitic to mark adnominal possession on the possessed noun. Instead, possession is typically indicated by other means, such as possessive pronouns or markers that are not phonologically bound prefixes.",
+        "source": []
+    },
+    "GB432-ilok1237": {
+        "code": 0,
+        "comment": "In Iloko, adnominal possession is not typically marked by a suffix or enclitic on the possessor. Possession is often indicated through the use of possessive pronouns or markers that are not suffixes attached to the possessor noun or pronoun.",
+        "source": []
+    },
+    "GB433-ilok1237": {
+        "code": 1,
+        "comment": "In Iloko, adnominal possession can be marked by a suffix on the possessed noun. The language allows for possessive suffixes that are phonologically bound to the possessed noun, fulfilling the criteria provided.",
+        "source": []
+    },
+    "GB519-ilok1237": {
+        "code": "1",
+        "comment": "Iloko uses auxiliary particles to mark mood. These particles are non-inflecting and phonologically free, fulfilling the criteria for marking mood as described.",
+        "source": []
+    },
+    "GB520-ilok1237": {
+        "code": "IDK",
+        "comment": "I do not have access to specific linguistic resources or grammatical descriptions of Iloko to determine if there are non-inflecting phonologically free markers for aspect.",
+        "source": []
+    },
+    "GB521-ilok1237": {
+        "code": "1",
+        "comment": "In Iloko, there are non-inflecting auxiliary particles that are used to mark tense. These particles are phonologically free and do not change form based on person, number, or other categories. They provide a clear indication of tense, fulfilling the criteria for this feature.",
+        "source": []
+    },
+    "GB522-ilok1237": {
+        "code": 1,
+        "comment": "Iloko is a pro-drop language, which means the S or A argument can be omitted from a pragmatically unmarked clause when the referent is inferable from context. This omission can occur generally, not restricted to specific person/number categories, and is common in simple declarative main clauses.",
+        "source": []
+    }
+}
