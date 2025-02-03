@@ -26,6 +26,8 @@ language = st.sidebar.selectbox(
 )
 
 base_dir = f"../outputs/{language}"
+st.sidebar.write(os.getcwd())
+st.sidebar.write(os.listdir(base_dir))
 
 # Function to select a file
 def file_selector(folder_path=base_dir):
