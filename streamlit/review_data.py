@@ -25,9 +25,7 @@ language = st.sidebar.selectbox(
     ('iloko', 'kalamang', 'minangkabau', 'mizo', 'southern_jinghpaw')
 )
 
-base_dir = f"../outputs/{language}"
-st.sidebar.write(os.getcwd())
-st.sidebar.write(os.listdir(base_dir))
+base_dir = f"outputs/{language}"
 
 # Function to select a file
 def file_selector(folder_path=base_dir):
@@ -38,7 +36,7 @@ def file_selector(folder_path=base_dir):
 filename = file_selector()
 
 # Load baseline values
-df_values = pd.read_csv('../resources/grambank/values.csv')
+df_values = pd.read_csv('resources/grambank/values.csv')
 
 # Handle cases for 4 or 5 columns
 four_cols = ['ID', 'code', 'comment', 'source']
