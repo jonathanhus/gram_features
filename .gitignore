@@ -1,6 +1,6 @@
 venv/
-resources/
 chroma_db/
+resources/grambank/features/
 
 
 .DS_Store
