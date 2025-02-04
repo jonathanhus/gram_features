@@ -68,28 +68,19 @@ value_code_filter = st.sidebar.radio(
     "Filter by Value & Code match",
     ("All", "Correct", "Incorrect")
 )
-
-# Apply filter
 if value_code_filter == "Correct":
     merged_results = merged_results[merged_results['Value'] == merged_results['code']]
 elif value_code_filter == "Incorrect":
     merged_results = merged_results[merged_results['Value'] != merged_results['code']]
 
-# Additional Filters
-if merged_results['Value'].str.isnumeric().all():
-    merged_results['Value'] = merged_results['Value'].astype(float)
-    min_value, max_value = merged_results['Value'].min(), merged_results['Value'].max()
-    value_range = st.sidebar.slider('Filter by Value (GramBank Baseline)', min_value, max_value, (min_value, max_value))
-    merged_results = merged_results[merged_results['Value'].between(value_range[0], value_range[1])]
-else:
-    unique_values = merged_results['Value'].unique().tolist()
-    selected_values = st.sidebar.multiselect('Filter by Value (GramBank Baseline)', unique_values, default=unique_values)
-    merged_results = merged_results[merged_results['Value'].isin(selected_values)]
+# Filter by unique Values
+unique_values = merged_results['Value'].unique().tolist()
+selected_values = st.sidebar.multiselect('Filter by Value (GramBank Baseline)', unique_values, default=unique_values)
+merged_results = merged_results[merged_results['Value'].isin(selected_values)]
 
+# Filter by unique codes
 codes = merged_results['code'].unique().tolist()
 selected_codes = st.sidebar.multiselect('Filter by Code (Experiment)', codes, default=codes)
-
-# Apply filters
 filtered_results = merged_results[merged_results['code'].isin(selected_codes)].reset_index(drop=True)
 
 # Add count of results in sidebar
