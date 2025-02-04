@@ -2,6 +2,12 @@ venv/
 chroma_db/
 resources/grambank/features/
 
+# Ignore grammar books for now. 
+resources/iloko/
+resources/kalamang
+resources/minangkabau
+resources/mizo
+resources/southern_jinghpaw
 
 .DS_Store
 .vscode/
